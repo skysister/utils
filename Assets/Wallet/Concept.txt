@@ -1,0 +1,20 @@
+Wallet Sniffer
+
+POCO
+Player Owned Customs Office
+
+Concept
+- with Eve SSO access
+- we can read corporation wallet details
+- which allows us to monitor POCO taxes (planetary industry)
+- and establish patterns of usage
+
+Intelligence
+- identify recurring characters and corps
+- find time zones and planets
+- lay in wait and crush
+- preferrably without providing return intel
+
+Problem
+Eve SSO access requires storage of a secret (application API key)
+GitHub free hosting doesn't have a way to save secrets securely

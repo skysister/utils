@@ -1,0 +1,173 @@
+[
+    {
+        "date": "2025 Jan 11?",
+        "vers": "0.4.1",
+        "list": [
+            "Add affiliation banner",
+            "Add page titles"
+        ]
+    },
+    {
+        "date": "2025 Jan 10",
+        "vers": "0.4.0",
+        "list": [
+            "Enable MotD feature"
+        ]
+    },
+    {
+        "date": "2025 Jan 9",
+        "vers": "0.4.0 β1",
+        "list": [
+            "Complete overhaul into PHP",
+            "Programmatic cache buster /flex",
+            "Data driven changelog (what?)"
+        ]
+    },
+    {
+        "date": "2025 Jan 9",
+        "vers": "0.3.0 β2",
+        "list": [
+            "Diagnostics now with more calories!"
+        ]
+    },
+    {
+        "date": "2025 Jan 8",
+        "vers": "0.3.0 β1",
+        "list": [
+            "Diagnostics"
+        ]
+    },
+    {
+        "date": "2025 Jan 7",
+        "vers": "0.2.8",
+        "list": [
+            "Testing tweaks"
+        ]
+    },
+    {
+        "date": "2025 Jan 7",
+        "vers": "0.2.7",
+        "list": [
+            "Testing update"
+        ]
+    },
+    {
+        "date": "2025 Jan 7",
+        "vers": "0.2.6",
+        "list": [
+            "Testing feature"
+        ]
+    },
+    {
+        "date": "2025 Jan 6",
+        "vers": "0.2.5",
+        "list": [
+            "Branch Pruning",
+            "Navigation Update",
+            "No new features"
+        ]
+    },
+    {
+        "date": "2024 Jul 2",
+        "vers": "0.2.4",
+        "list": [
+            "Add Copy Table to CSV button to Sovereignty",
+            "Restructure data for future deduplication",
+            "Correct variable name in CSV"
+        ]
+    },
+    {
+        "date": "2024 Jun 30",
+        "vers": "0.2.2",
+        "list": [
+            "Add Sovereignty button to home page"
+        ]
+    },
+    {
+        "date": "2024 Jun 29",
+        "vers": "0.2.1",
+        "list": [
+            "Update Sovereignty with Claimed and Contested"
+        ]
+    },
+    {
+        "date": "2024 Jun 29",
+        "vers": "0.2.0",
+        "list": [
+            "Add Sovereignty"
+        ]
+    },
+    {
+        "date": "2023 Oct 15",
+        "vers": "0.1.0",
+        "list": [
+            "Add version number",
+            "Mark materials with least and most runs",
+            "Add legend to Material Analysis"
+        ]
+    },
+    {
+        "date": "2023 Oct 15",
+        "list": [
+            "Add change log (hello!)",
+            "Add footer nav",
+            "Add sample data to Material Analysis",
+            "Add helper graphic to Material Analysis",
+            "Add prepared date and time to Material Analysis"
+        ]
+    },
+    {
+        "date": "2023 Oct 14",
+        "list": [
+            "Update custom button colors",
+            "Add common navigation",
+            "Add page color theme to buttons, bars and bullets",
+            "Add favicon",
+            "Update Time Stamp to be tabbed",
+            "Make Station Timer the default"
+        ]
+    },
+    {
+        "date": "2023 Oct 13",
+        "list": [
+            "Complete Material Analysis feature conversion",
+            "Update page style",
+            "Add character portrait",
+            "Optimize for mobile"
+        ]
+    },
+    {
+        "date": "2023 Oct 12",
+        "list": [
+            "Correct Time Stamp classes",
+            "Restore Station Timer help image",
+            "Fix other resource URLs"
+        ]
+    },
+    {
+        "date": "2023 Oct 11",
+        "list": [
+            "Reorganize repository to use deploy strategy",
+            "Add assets for Material Analysis",
+            "Add assets for Secret Project (shhh)"
+        ]
+    },
+    {
+        "date": "2023 Oct 10",
+        "list": [
+            "Enable pull requests"
+        ]
+    },
+    {
+        "date": "2023 Oct 9",
+        "list": [
+            "Migrate timer feature"
+        ]
+    },
+    {
+        "date": "2023 Jun 16",
+        "list": [
+            "Create placeholder page"
+        ]
+    }
+]

@@ -1,0 +1,112 @@
+/* ----- Colors ----- */
+:root {
+	/* ----- Named Colors ----- */
+	--ssc-gray-charcoal: #567;
+	--ssc-gray: #bcd;
+	--ssc-gray-light: #f7f7f7;
+	--ssc-transparent: transparent;
+	--ssc-white: white;
+	--ssc-blue: #313b72;
+	--ssc-green: #12664f;
+	--ssc-orange: #f9a03f;
+	--ssc-purple: #462255;
+	--ssc-red: #8c1c13;
+	
+	/* ----- Theme Letters ----- */
+	--ssc-a: var(--ssc-blue);
+	--ssc-b: var(--ssc-green);
+	--ssc-c: var(--ssc-orange);
+	--ssc-d: var(--ssc-purple);
+	--ssc-e: var(--ssc-red);
+	
+	/* ----- Background Colors ----- */
+	--ssc-bg-body: var(--ssc-transparent);
+	--ssc-bg-page: var(--ssc-white);
+	--ssc-bg-site: var(--ssc-gray-light);
+	
+	/* ----- Text Colors ----- */
+	--ssc-text-page: var(--ssc-gray-charcoal);
+	--ssc-text-code: var(--ssc-orange);
+	--ssc-text-dim:  var(--ssc-gray);
+}
+
+html  { background-color: var(--ssc-bg-site); }
+body  { background-color: var(--ssc-bg-body); }
+.page { background-color: var(--ssc-bg-page); color: var(--ssc-text-page); }
+
+.badge-ssc-version { background-color: black; color: white; font-size: 0.5em; }
+.badge-ssc-a, .bg-ssc-a { background-color: var(--ssc-a); }
+.badge-ssc-b, .bg-ssc-b { background-color: var(--ssc-b); }
+.badge-ssc-c, .bg-ssc-c { background-color: var(--ssc-c); }
+.badge-ssc-d, .bg-ssc-d { background-color: var(--ssc-d); }
+.badge-ssc-e, .bg-ssc-e { background-color: var(--ssc-e); }
+
+.btn-ssc-a,
+.btn-ssc-a.show,
+.btn-ssc-a:not(:disabled):not(.disabled):active,
+.btn-ssc-a:hover,
+.show > .btn-ssc-a.dropdown-toggle  { background-color: var(--ssc-a); border-color: var(--ssc-a); color: var(--ssc-white); }
+.btn-outline.btn-ssc-a { background: transparent; color: var(--ssc-white); }
+.text-ssc-a { color: var(--ssc-a); }
+
+.btn-ssc-b,
+.btn-ssc-b.show,
+.btn-ssc-b:not(:disabled):not(.disabled):active,
+.btn-ssc-b:hover,
+.show > .btn-ssc-b.dropdown-toggle  { background-color: var(--ssc-b); border-color: var(--ssc-b); color: var(--ssc-white); }
+.btn-outline.btn-ssc-b { background: transparent; color: var(--ssc-white); }
+.text-ssc-b { color: var(--ssc-b); }
+
+.btn-ssc-c,
+.btn-ssc-c.show,
+.btn-ssc-c:not(:disabled):not(.disabled):active,
+.btn-ssc-c:hover,
+.show > .btn-ssc-c.dropdown-toggle  { background-color: var(--ssc-c); border-color: var(--ssc-c); color: var(--ssc-white); }
+.btn-outline.btn-ssc-c { background: transparent; color: var(--ssc-white); }
+.text-ssc-c { color: var(--ssc-c); }
+
+.btn-ssc-d,
+.btn-ssc-d.show,
+.btn-ssc-d:not(:disabled):not(.disabled):active,
+.btn-ssc-d:hover,
+.show > .btn-ssc-d.dropdown-toggle  { background-color: var(--ssc-d); border-color: var(--ssc-d); color: var(--ssc-white); }
+.btn-outline.btn-ssc-d { background: transparent; color: var(--ssc-white); }
+.text-ssc-d { color: var(--ssc-d); }
+
+.btn-ssc-e,
+.btn-ssc-e.show,
+.btn-ssc-e:not(:disabled):not(.disabled):active,
+.btn-ssc-e:hover,
+.show > .btn-ssc-e.dropdown-toggle  { background-color: var(--ssc-e); border-color: var(--ssc-e); color: var(--ssc-white); }
+.btn-outline.btn-ssc-e { background: transparent; color: var(--ssc-white); }
+.text-ssc-e { color: var(--ssc-e); }
+
+.bar-top, .bar-btm { position: relative; }
+.bar-top:before, .bar-btm:after {
+	background-color: black;
+	content: "";
+	height: 4px;
+	position: absolute;
+	width: 100%;
+}
+.bar-top:before { top: 0; }
+.bar-btm:after { bottom: 0; }
+.bar-ssc-a:before, .bar-ssc-a:after { background-color: var(--ssc-a); }
+.bar-ssc-b:before, .bar-ssc-b:after { background-color: var(--ssc-b); }
+.bar-ssc-c:before, .bar-ssc-c:after { background-color: var(--ssc-c); }
+.bar-ssc-d:before, .bar-ssc-d:after { background-color: var(--ssc-d); }
+.bar-ssc-e:before, .bar-ssc-e:after { background-color: var(--ssc-e); }
+
+.hr-ssc { background-color: black; border: 0; height: 1px; opacity: 1; }
+.hr-ssc-a { background-color: var(--ssc-a); }
+.hr-ssc-b { background-color: var(--ssc-b); }
+.hr-ssc-c { background-color: var(--ssc-c); }
+.hr-ssc-d { background-color: var(--ssc-d); }
+.hr-ssc-e { background-color: var(--ssc-e); }
+
+.marker-ssc li::marker { color: black; }
+.marker-ssc-a li::marker { color: var(--ssc-a); }
+.marker-ssc-b li::marker { color: var(--ssc-b); }
+.marker-ssc-c li::marker { color: var(--ssc-c); }
+.marker-ssc-d li::marker { color: var(--ssc-d); }
+.marker-ssc-e li::marker { color: var(--ssc-e); }

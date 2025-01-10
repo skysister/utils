@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-4": { "": "class" }
+    },
+    "config": {
+        "platform": {
+            "php": "8.4"
+        }
+    },
+    "description": "Reconstruction for PHP",
+    "name": "skysister/utils"
+}
