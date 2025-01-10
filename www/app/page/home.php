@@ -1,5 +1,9 @@
-<?php site()->layoutInit(); ?>
-<?=site()->topBanner()?>
+<?php 
+
+site()->layoutInit();
+echo site()->topBanner()
+
+?>
 
 <div class="page bar-top bar-btm bar-ssc-a">
     <div class="container">

@@ -10,7 +10,8 @@ site()->addPageTitle("Diagnostics");
 
     <pre>
 <?php
-function env($var, $show = false) {
+function env($var, $show = false)
+{
     echo "$var: ";
     $value = getenv($var);
     if ($value) {

@@ -22,7 +22,9 @@ trait URIHelper
 
         if (!empty($prefix)) {
             $segments = array_combine(
-                array_map(function($k) use ($prefix) { return "$prefix$k"; }, array_keys($segments)),
+                array_map(function ($k) use ($prefix) {
+                    return "$prefix$k"; 
+                }, array_keys($segments)),
                 $segments
             );
         }
