@@ -9,19 +9,6 @@ site()->addPageTitle("Diagnostics");
     <div id="diagnostics" class="container text-white">
 
     <pre>
-<?php
-function env($var, $show = false)
-{
-    echo "$var: ";
-    $value = getenv($var);
-    if ($value) {
-        echo $show ? $value : "Present! Found " . strlen($value) . " characters.";
-    } else {
-        echo "Value not present.";
-    }
-    echo "\n";
-}
-?>
 <?=__FILE__?> 
 
 <a href="/info">PHP Info</a>
@@ -39,13 +26,13 @@ PHP Version
 <?=$php?> 
 
 <hr>
-<?=env("SS_EXAMPLE")?>
+<?=site()->env("SS_EXAMPLE")?>
 
 <hr>
-<?=env("SS_ESICLIENTID")?>
+<?=site()->env("SS_ESICLIENTID")?>
 
 <hr>
-<?=env("SS_ESICLIENTSECRET")?>
+<?=site()->env("SS_ESICLIENTSECRET")?>
 
 <hr>
 Done.

@@ -29,6 +29,18 @@ class Site
         $this->addTemplateVariables($this->uriSegments());
     }
 
+    public function env($var, $show = false)
+    {
+        $output = "$var: ";
+        $value = getenv($var);
+        if ($value) {
+            $output .= $show ? $value : "Present! Found " . strlen($value) . " characters.";
+        } else {
+            $output .= "Value not present.";
+        }
+        return "$output\n";
+    }
+    
     public function pageTitle()
     {
         return implode(" :: ", $this->pageTitle);
