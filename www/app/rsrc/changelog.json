@@ -4,7 +4,9 @@
         "vers": "0.4.1",
         "list": [
             "Add affiliation banner",
-            "Add page titles"
+            "Add page titles",
+            "Correct change log entries",
+            "Apply PSR-12"
         ]
     },
     {
