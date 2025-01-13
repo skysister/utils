@@ -26,6 +26,9 @@ var motd = {
             }
         }
 
+        // TODO save in local storage
+        console.log("Save to local storage", matches);
+
         // output
         $("#motd-output .result").empty()
             .append(Mustache.render(
