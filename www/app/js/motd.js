@@ -2,6 +2,16 @@ var motd = {
     onDocumentReady: function () {
         console.log("motd.onDocumentReady()");
         OnClick.install("motd"); // attaches click handlers
+        ssStorage.install("motd");
+        motd.checkStorage();
+    },
+
+    checkStorage: function() {
+        var matches = motd.read("matches");
+        if (matches) {
+            const msg = "Found these entries from before.";
+            motd.show(matches, msg);
+        }
     },
 
     onParse: function () {
@@ -26,16 +36,31 @@ var motd = {
             }
         }
 
-        // TODO save in local storage
-        console.log("Save to local storage", matches);
+        // save in local storage
+        motd.store("matches", matches);
 
+        motd.show(matches);
+    },
+
+    onAdd: function() {
+        var row = $(this).closest("tr");
+        var channel = row.find("[name=channel]").val();
+        var password = row.find("[name=password]").val();
+        if (!channel || !password) {
+            return;
+        }
+        motd.addTo("matches", {channel, password});
+        motd.checkStorage();
+    },
+
+    show: function (matches, message = false) {
         // output
         $("#motd-output .result").empty()
             .append(Mustache.render(
-                $("#motd-result").html(), { matches }
+                $("#motd-result").html(), { matches, message }
             ));
 
-            // toggle view
+        // toggle view
         $("#motd-ui").hide();
         $("#motd-output").show();
     },

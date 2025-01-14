@@ -20,6 +20,7 @@
     <?=site()->bustJS("https://cdn.jsdelivr.net/npm/moment@2.29.4/moment.min.js")?>
     <?=site()->bustJS("https://cdn.jsdelivr.net/npm/mustache@4.2.0/mustache.min.js")?>
     <?=site()->bustJS("/app/js/onclick.js")?>
+    <?=site()->bustJS("/app/js/ssStorage.js")?>
     <?=site()->bustJS("/app/js/site.js")?>
     <?=site()->addedJS()?> 
 </head>
