@@ -1,5 +1,12 @@
 [
     {
+        "date": "2025 Jan 14",
+        "vers": "0.4.2",
+        "list": [
+            "Add local storage feature to MotD"
+        ]
+    },
+    {
         "date": "2025 Jan 10",
         "vers": "0.4.1",
         "list": [

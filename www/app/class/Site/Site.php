@@ -18,7 +18,7 @@ class Site
 
     private $version = [
         "before" => "",
-        "sem" => [ 0, 4, 1],
+        "sem" => [ 0, 4, 2],
         "after" => "",
     ];
 
