@@ -35,6 +35,7 @@ site()->addJS("/app/js/motd.js", "file");
     </div>
 </div>
 <script id="motd-result" type="x-tmpl-mustache">
+{{#message}}{{message}}{{/message}}
 <table class="table table-sm table-motd w-auto text-white">
 <tr>
     <th>Channel</th>
@@ -52,7 +53,27 @@ site()->addJS("/app/js/motd.js", "file");
         </td>
     </tr>
 {{/matches}}
+    <tr>
+        <td>
+            <input class="form-control form-control-sm"
+                placeholder="Channel"
+                name="channel"
+            >
+        </td>
+        <td>
+            <input class="form-control form-control-sm"
+                placeholder="Password"
+                name="password"
+            >
+        </td>
+        <td>
+            <button class="btn btn-sm btn-outline btn-ssc-a" data-motd="onAdd">
+                Add
+            </button>
+        </td>
+    </tr>
 </table>
+<p>You can add another channel and password.</p>
 </script>
 
 <?=site()->layout()?>
