@@ -11,8 +11,6 @@ site()->addPageTitle("Diagnostics");
     <pre>
 <?=__FILE__?> 
 
-<a href="/info">PHP Info</a>
-
 Starting.
 
 <hr>
@@ -24,9 +22,6 @@ Release
 PHP Version
 <?php $php = phpversion(); ?>
 <?=$php?> 
-
-<hr>
-<?=site()->env("SS_EXAMPLE")?>
 
 <hr>
 <?=site()->env("SS_ESICLIENTID")?>
