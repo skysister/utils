@@ -1,5 +1,12 @@
 [
     {
+        "date": "2025 Jan 17",
+        "vers": "0.4.3",
+        "list": [
+            "Bug fixes and performance improvements"
+        ]
+    },
+    {
         "date": "2025 Jan 14",
         "vers": "0.4.2",
         "list": [
