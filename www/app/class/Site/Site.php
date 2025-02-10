@@ -29,6 +29,11 @@ class Site
         $this->addTemplateVariables($this->uriSegments());
     }
 
+    public function getSampleDataPath($which)
+    {
+        return $_SERVER["DOCUMENT_ROOT"] . "/app/rsrc/sample-data/$which";
+    }
+
     public function env($var, $show = false)
     {
         $output = "$var: ";
