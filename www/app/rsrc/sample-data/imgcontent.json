@@ -1,0 +1,2204 @@
+{
+	"eve-online": {
+		"en": {
+			"background": {
+				"content": {
+					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/pfZt9whz8gBvMU1GjTGxt/effc3b024e3629d00fe0983db46f5ba1/equinox_launcher_dark_bg.jpg"
+				},
+				"updatedAt": 1738803641644
+			},
+			"creatives": {
+				"creatives": [
+					{
+						"id": "874555823",
+						"campaignId": "164377630",
+						"url": "https://engine2.extccp.com/c?data=eyJ0aW1lIjoxNzM5MTE3ODk1LCJ6SUQiOjQ2NzYzMTQ3OSwiY0lEIjoiMTY0Mzc3NjMwIiwiY3JJRCI6Ijg3NDU1NTgyMyIsImRvbWFpbiI6IiIsImNyX29wdF9ncm91cCI6bnVsbCwiaXBoYXNoIjoiNmI1MDdhOWYiLCJyZWZlcmVyIjoiIiwiXyI6MTMyODc4MjYyfQ..-76b969ee&ag_custom_source=e-launcher&ag_custom_term=en&u=aHR0cHM6Ly9zdG9yZS5ldmVvbmxpbmUuY29tLz91dG1fc291cmNlPWxhdW5jaGVyJnV0bV9tZWRpdW09YXBwJnV0bV9jYW1wYWlnbj1jbjp3d19sZzplbl9tZzo0X3BkOjJfY2Q6MjVfMDFfbmV3X3llYXJfcGFja3NfMl9jdDpsYXVuY2hlci1iYW5uZXJfdGc6c2VjdXJlI3BhY2tz",
+						"landing_url": "https://store.eveonline.com/?utm_source=launcher&utm_medium=app&utm_campaign=cn:ww_lg:en_mg:4_pd:2_cd:25_01_new_year_packs_2_ct:launcher-banner_tg:secure#packs",
+						"image": "cache+https://creatives2.extccp.com/t6d0d3487/img/szszg_mfvtg3_a556e0a1.png",
+						"weight": "60"
+					},
+					{
+						"id": "664828743",
+						"campaignId": "206053159",
+						"url": "https://engine2.extccp.com/c?data=eyJ0aW1lIjoxNzM5MTE3ODk1LCJ6SUQiOjQ2NzYzMTQ3OSwiY0lEIjoiMjA2MDUzMTU5IiwiY3JJRCI6IjY2NDgyODc0MyIsImRvbWFpbiI6IiIsImNyX29wdF9ncm91cCI6bnVsbCwiaXBoYXNoIjoiNmI1MDdhOWYiLCJyZWZlcmVyIjoiIiwiXyI6ODA3MTQ5MTM3fQ..-4a3b1d8f&ag_custom_source=e-launcher&ag_custom_term=en&u=aHR0cHM6Ly93d3cuZXZlb25saW5lLmNvbS9uZXdzL3ZpZXcvZ3JhYi15b3VyLWx1bmFyLW5ldy15ZWFyLWdpZnQtZnJvbS10aGUtbmVzP3V0bV9zb3VyY2U9bGF1bmNoZXImdXRtX21lZGl1bT1hcHAmdXRtX2NhbXBhaWduPWNuOnd3X2xnOmVuX21nOjRfcGQ6Ml9jZDoyNV8wMV9sdW5hcl9jcmF0ZV9jdDpsYXVuY2hlci1iYW5uZXJfdGc6bmV3cw==",
+						"landing_url": "https://www.eveonline.com/news/view/grab-your-lunar-new-year-gift-from-the-nes?utm_source=launcher&utm_medium=app&utm_campaign=cn:ww_lg:en_mg:4_pd:2_cd:25_01_lunar_crate_ct:launcher-banner_tg:news",
+						"image": "cache+https://creatives2.extccp.com/t6d0d3487/img/szszg_c6kve4_ea519f4a.png",
+						"weight": "60"
+					},
+					{
+						"id": "119539297",
+						"campaignId": "874575904",
+						"url": "https://engine2.extccp.com/c?data=eyJ0aW1lIjoxNzM5MTE3ODk1LCJ6SUQiOjQ2NzYzMTQ3OSwiY0lEIjoiODc0NTc1OTA0IiwiY3JJRCI6IjExOTUzOTI5NyIsImRvbWFpbiI6IiIsImNyX29wdF9ncm91cCI6bnVsbCwiaXBoYXNoIjoiNmI1MDdhOWYiLCJyZWZlcmVyIjoiIiwiXyI6NTE1NTk4NjUxfQ..-b0d151df&ag_custom_source=e-launcher&ag_custom_term=en&u=aHR0cHM6Ly93d3cuZXZlb25saW5lLmNvbS9uZXdzL3ZpZXcvZXF1aW5veC11cGRhdGUtdHdlYWtzLWFuZC1iYWxhbmNlcy8/dXRtX3NvdXJjZT1sYXVuY2hlciZ1dG1fbWVkaXVtPWFwcCZ1dG1fY2FtcGFpZ249Y246d3dfbGc6ZW5fbWc6NF9wZDoyX2NkOmZyZWVfc2tpbGxfcG9pbnRzX25lc19jdDpsYXVuY2hlci1iYW5uZXJfdGc6bmV3cw==",
+						"landing_url": "https://www.eveonline.com/news/view/equinox-update-tweaks-and-balances/?utm_source=launcher&utm_medium=app&utm_campaign=cn:ww_lg:en_mg:4_pd:2_cd:free_skill_points_nes_ct:launcher-banner_tg:news",
+						"image": "cache+https://creatives2.extccp.com/t6d0d3487/img/szszg_2sdmwk_37e54e48.png",
+						"weight": "60"
+					},
+					{
+						"id": "551396685",
+						"campaignId": "892302500",
+						"url": "https://engine2.extccp.com/c?data=eyJ0aW1lIjoxNzM5MTE3ODk1LCJ6SUQiOjQ2NzYzMTQ3OSwiY0lEIjoiODkyMzAyNTAwIiwiY3JJRCI6IjU1MTM5NjY4NSIsImRvbWFpbiI6IiIsImNyX29wdF9ncm91cCI6bnVsbCwiaXBoYXNoIjoiNmI1MDdhOWYiLCJyZWZlcmVyIjoiIiwiXyI6Njg1NjY2ODk0fQ..-219aa7bb&ag_custom_source=e-launcher&ag_custom_term=en&u=aHR0cHM6Ly93d3cuZXZlb25saW5lLmNvbS90d2l0Y2g/dXRtX3NvdXJjZT1sYXVuY2hlciZ1dG1fbWVkaXVtPWFwcCZ1dG1fY2FtcGFpZ249Y246d3dfbGc6ZW5fbWc6M19wZDoyX2NkOnR3aXRjaC1kcm9wc19jdDpsYXVuY2hlci1iYW5uZXJfdGc6dHdpdGNo",
+						"landing_url": "https://www.eveonline.com/twitch?utm_source=launcher&utm_medium=app&utm_campaign=cn:ww_lg:en_mg:3_pd:2_cd:twitch-drops_ct:launcher-banner_tg:twitch",
+						"image": "cache+https://creatives2.extccp.com/t6d0d3487/img/szszg_5pve38_3b73eb40.png",
+						"weight": "60"
+					}
+				],
+				"updatedAt": 1739117894594
+			},
+			"imageGallery": {
+				"items": [
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/01.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/01.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/02.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/02.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/03.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/03.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/04.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/04.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/05.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/05.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/06.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/06.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/07.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/07.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/08.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/08.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/09.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/09.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/10.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/10.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/11.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/11.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/12.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/12.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/13.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/13.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/14.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/14.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/15.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/15.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/16.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/16.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/17.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/17.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/18.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/18.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/19.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/19.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/20.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/20.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/21.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/21.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/22.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/22.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/23.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/23.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/24.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/24.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/25.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/25.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/26.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/26.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/27.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/27.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/28.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/28.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/29.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/29.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/30.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/30.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/31.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/31.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/32.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/32.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/33.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/33.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/34.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/34.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/35.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/35.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/36.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/36.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/37.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/37.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/38.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/38.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/39.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/39.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/40.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/40.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/41.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/41.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/42.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/42.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/43.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/43.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/44.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/44.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/45.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/45.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/46.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/46.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/47.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/47.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/48.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/48.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/49.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/49.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/50.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/50.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/51.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/51.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/52.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/52.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/53.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/53.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/54.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/54.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/55.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/55.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/56.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/56.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/57.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/57.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/58.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/58.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/59.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/59.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/60.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/60.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/61.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/61.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/62.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/62.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/63.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/63.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/64.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/64.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/66.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/66.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/67.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/67.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/68.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/68.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/69.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/69.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/70.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/70.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/71.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/71.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/72.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/72.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/73.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/73.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/74.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/74.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/75.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/75.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/76.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/76.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/77.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/77.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/78.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/78.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/79.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/79.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/80.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/80.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/81.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/81.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/82.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/82.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/83.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/83.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/84.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/84.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/85.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/85.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/86.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/86.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/87.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/87.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/88.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/88.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/89.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/89.jpg"
+					},
+					{
+						"thumb": "https://launcher-cdn.eveonline.com/shenanigans/instalock/thumbs/90.png",
+						"full": "https://launcher-cdn.eveonline.com/shenanigans/instalock/full/90.jpg"
+					}
+				]
+			},
+			"newPlayerContent": {
+				"content": [
+					{
+						"button": "Explore the Universe",
+						"subtitle": "EVE Universe",
+						"description": "From the origins of mankind’s presence in New Eden more than 15,000 years ago to the history and cultures of the modern Empires, the legacies and descendants of ancient factions, and the stories of those who inhabit New Eden, EVE is an ever-evolving story whose rich and enduring setting has been unfolding continually for nearly two decades.",
+						"title": "Explore New Eden through the lore of EVE",
+						"url": "https://universe.eveonline.com/"
+					},
+					{
+						"button": "Upgrade To Omega",
+						"subtitle": "Upgrade to Omega to unlock the full potential of EVE Online",
+						"description": "Omega Clone State empowers you to train skills at double the speed of Alpha Clones, and gives you access to all of EVE’s best skills, allowing you to work towards flying over 350 ships as you follow a path of your own choosing.",
+						"title": "Omega Clone State",
+						"url": "https://store.eveonline.com/#omega",
+						"tags": [
+							"alpha"
+						]
+					},
+					{
+						"button": "Visit EVE Academy",
+						"subtitle": "Unleash The Power Of Alts",
+						"description": "If you've spent some time around EVE Online, you might have heard other pilots talking about their ‘alts’.  Simply put, alts are ‘alternative characters’ created on your EVE Online account. ",
+						"title": "You can have up to one main and two alts on your account in total",
+						"url": "https://www.eveonline.com/eve-academy/alt-accounts"
+					},
+					{
+						"button": "Learn Combat Mechanics",
+						"subtitle": "Learn the basics of combat in EVE Online",
+						"description": "Interfaced directly with their ship, a capsuleer exerts absolute control over its every action, including all elements of combat. It is therefore essential that you understand the principles guiding the many weapons, tactics, and defenses available to you.",
+						"title": "Combat Mechanics",
+						"url": "https://www.eveonline.com/eve-academy/ships/combat-mechanics"
+					},
+					{
+						"button": "Visit EVE Academy",
+						"subtitle": "Player Corporations",
+						"description": "Corporations are more than mere assemblies of capsuleers – they are excellent avenues for shared journeys and support, where combined efforts yield results that far exceed the capabilities of individuals acting alone. ",
+						"title": "Strength In Numbers – 2+2=5",
+						"url": "https://www.eveonline.com/eve-academy/corporations"
+					},
+					{
+						"button": "Explore the Frontlines",
+						"subtitle": "New Eden War Report",
+						"description": "Factional Warfare is a conflict within warzones fought by corporations aligned with one of the four empires of New Eden. For members of a Factional Warfare corporation, all regions of empire space (hisec & lowsec) become areas where you and your faction allies may freely attack pilots from enemy militias without CONCORD interference. Participants fight to capture warzone systems for their faction.",
+						"title": "The universe is a warzone, and it’s time to pick a side",
+						"url": "https://www.eveonline.com/frontlines"
+					}
+				],
+				"updatedAt": 1739072273155
+			},
+			"playArea": {
+				"content": {
+					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/4VHu6C9wVm8CxcGct06cxi/6f621d1cac5406d185a59408f298eef7/9_625x200.jpg"
+				},
+				"updatedAt": 1738803641979
+			},
+			"youtubePlaylist": {
+				"items": [
+					{
+						"title": "EVE Online | The Scope - Bowhead Ambush",
+						"thumbnail": "https://i.ytimg.com/vi/iPYYX7xg_TY/mqdefault.jpg",
+						"videoId": "iPYYX7xg_TY",
+						"publishedAt": "2023-12-07T03:28:55Z"
+					},
+					{
+						"title": "EVE Online | The Scope - Citadel Destruction, Nullsec Heist",
+						"thumbnail": "https://i.ytimg.com/vi/i8k6MSwMvDQ/mqdefault.jpg",
+						"videoId": "i8k6MSwMvDQ",
+						"publishedAt": "2023-11-30T15:01:06Z"
+					},
+					{
+						"title": "EVE Online | The Scope - Pirate Insurgencies, EverMark Donations",
+						"thumbnail": "https://i.ytimg.com/vi/2kuR_JPiQhU/mqdefault.jpg",
+						"videoId": "2kuR_JPiQhU",
+						"publishedAt": "2023-11-17T16:29:44Z"
+					},
+					{
+						"title": "EVE Online | The Scope - Pirates Threaten Citadels, SCC Clamp Down",
+						"thumbnail": "https://i.ytimg.com/vi/he4M3Hlbp0A/mqdefault.jpg",
+						"videoId": "he4M3Hlbp0A",
+						"publishedAt": "2023-11-09T14:53:33Z"
+					},
+					{
+						"title": "EVE Online | The Scope – Stargates to Zarzakh Reveal Jovian Station",
+						"thumbnail": "https://i.ytimg.com/vi/XI-_qHbM07E/mqdefault.jpg",
+						"videoId": "XI-_qHbM07E",
+						"publishedAt": "2023-09-19T11:32:08Z"
+					},
+					{
+						"title": "EVE Online | The Scope – BREAKING: Ancient Jovian Stargates Discovered",
+						"thumbnail": "https://i.ytimg.com/vi/xv99M8cffCM/mqdefault.jpg",
+						"videoId": "xv99M8cffCM",
+						"publishedAt": "2023-08-26T17:31:44Z"
+					},
+					{
+						"title": "EVE Online | The Scope – Conflict In The North",
+						"thumbnail": "https://i.ytimg.com/vi/-YS-jCOyZ3E/mqdefault.jpg",
+						"videoId": "-YS-jCOyZ3E",
+						"publishedAt": "2023-06-15T13:05:42Z"
+					},
+					{
+						"title": "The Scope | Caldari State Completes Interstellar Shipcaster Project",
+						"thumbnail": "https://i.ytimg.com/vi/HTpqdiDNY88/mqdefault.jpg",
+						"videoId": "HTpqdiDNY88",
+						"publishedAt": "2023-05-05T12:05:37Z"
+					},
+					{
+						"title": "EVE Online | The Scope - Empires Fight Shadow War",
+						"thumbnail": "https://i.ytimg.com/vi/F0af7BcUyGE/mqdefault.jpg",
+						"videoId": "F0af7BcUyGE",
+						"publishedAt": "2023-03-28T12:51:19Z"
+					},
+					{
+						"title": "EVE Online | The Scope – Concord Shipcaster Spying Scandal",
+						"thumbnail": "https://i.ytimg.com/vi/QL_US4udSFs/mqdefault.jpg",
+						"videoId": "QL_US4udSFs",
+						"publishedAt": "2023-03-03T08:16:21Z"
+					},
+					{
+						"title": "EVE Online | The Scope – Continued Developments in the Warzones",
+						"thumbnail": "https://i.ytimg.com/vi/8lSHF4gjwC4/mqdefault.jpg",
+						"videoId": "8lSHF4gjwC4",
+						"publishedAt": "2022-11-11T14:57:10Z"
+					},
+					{
+						"title": "EVE Online | The Scope – Extreme Stellar Event Devastates Turnur",
+						"thumbnail": "https://i.ytimg.com/vi/Y6rxaIaNyIs/mqdefault.jpg",
+						"videoId": "Y6rxaIaNyIs",
+						"publishedAt": "2022-11-04T22:33:47Z"
+					},
+					{
+						"title": "EVE Online | The Scope - Catastrophe in Turnur imminent",
+						"thumbnail": "https://i.ytimg.com/vi/QQKHfL3MPTI/mqdefault.jpg",
+						"videoId": "QQKHfL3MPTI",
+						"publishedAt": "2022-10-28T20:12:36Z"
+					},
+					{
+						"title": "EVE Online | The Scope – Stellar Transmuter Crisis and Escalating Conflict Around Athounon V",
+						"thumbnail": "https://i.ytimg.com/vi/mf8gXxHv_K0/mqdefault.jpg",
+						"videoId": "mf8gXxHv_K0",
+						"publishedAt": "2022-10-20T10:20:07Z"
+					},
+					{
+						"title": "EVE Online | The Scope – \"Deathless\" Interrupts Concord and Diplomatic Crisis",
+						"thumbnail": "https://i.ytimg.com/vi/VN-V1yOOEJg/mqdefault.jpg",
+						"videoId": "VN-V1yOOEJg",
+						"publishedAt": "2022-05-07T08:42:44Z"
+					},
+					{
+						"title": "EVE Online | The Scope – Fight Against Smugglers and Growing Diplomatic Crisis",
+						"thumbnail": "https://i.ytimg.com/vi/RtRiHsI0IXg/mqdefault.jpg",
+						"videoId": "RtRiHsI0IXg",
+						"publishedAt": "2022-05-03T18:29:21Z"
+					},
+					{
+						"title": "EVE Online | The Scope – Mass Defection and Dreadnought Advances",
+						"thumbnail": "https://i.ytimg.com/vi/mZr0neEME-s/mqdefault.jpg",
+						"videoId": "mZr0neEME-s",
+						"publishedAt": "2022-04-29T15:05:17Z"
+					},
+					{
+						"title": "The Scope - Treason in JITA 4-4",
+						"thumbnail": "https://i.ytimg.com/vi/-chhrTL4WNA/mqdefault.jpg",
+						"videoId": "-chhrTL4WNA",
+						"publishedAt": "2022-04-07T16:27:24Z"
+					},
+					{
+						"title": "The Scope – ORE Release Material Compressors",
+						"thumbnail": "https://i.ytimg.com/vi/cg6rd8BgB-g/mqdefault.jpg",
+						"videoId": "cg6rd8BgB-g",
+						"publishedAt": "2022-03-15T13:53:42Z"
+					},
+					{
+						"title": "The Scope – ORE Ship Confirmed as Hijacked by Angel Cartel",
+						"thumbnail": "https://i.ytimg.com/vi/s2SUVcXsbQI/mqdefault.jpg",
+						"videoId": "s2SUVcXsbQI",
+						"publishedAt": "2022-02-18T13:05:19Z"
+					},
+					{
+						"title": "EVE Online | The Scope - One Year Anniversary Of Pochven",
+						"thumbnail": "https://i.ytimg.com/vi/wE9oowNXjuo/mqdefault.jpg",
+						"videoId": "wE9oowNXjuo",
+						"publishedAt": "2021-10-15T02:29:53Z"
+					},
+					{
+						"title": "EVE Online | The Scope - Rogue Drones",
+						"thumbnail": "https://i.ytimg.com/vi/R3ghCDj9gdU/mqdefault.jpg",
+						"videoId": "R3ghCDj9gdU",
+						"publishedAt": "2021-09-24T22:25:09Z"
+					},
+					{
+						"title": "EVE Online | The Scope - War Ends, Caldari Leadership & Union Day",
+						"thumbnail": "https://i.ytimg.com/vi/chSeiYH3DO8/mqdefault.jpg",
+						"videoId": "chSeiYH3DO8",
+						"publishedAt": "2021-09-03T11:39:01Z"
+					},
+					{
+						"title": "The Scope - War in Delve and formation of Pochven",
+						"thumbnail": "https://i.ytimg.com/vi/ygydAY22RYE/mqdefault.jpg",
+						"videoId": "ygydAY22RYE",
+						"publishedAt": "2020-11-03T22:44:12Z"
+					},
+					{
+						"title": "The Scope - Growing Fears Over Stargates",
+						"thumbnail": "https://i.ytimg.com/vi/5L1TNKqzSaA/mqdefault.jpg",
+						"videoId": "5L1TNKqzSaA",
+						"publishedAt": "2020-10-10T10:11:38Z"
+					},
+					{
+						"title": "The Scope - Fury at FWST-8",
+						"thumbnail": "https://i.ytimg.com/vi/CfoXLv6CSJg/mqdefault.jpg",
+						"videoId": "CfoXLv6CSJg",
+						"publishedAt": "2020-10-09T15:31:45Z"
+					},
+					{
+						"title": "TOTAL WAR RAGES IN NEW EDEN",
+						"thumbnail": "https://i.ytimg.com/vi/RMOPT2LotlE/mqdefault.jpg",
+						"videoId": "RMOPT2LotlE",
+						"publishedAt": "2020-07-16T17:34:24Z"
+					},
+					{
+						"title": "The Scope - Raravoss conquered by Triglavians",
+						"thumbnail": "https://i.ytimg.com/vi/BzFe0a0gx1E/mqdefault.jpg",
+						"videoId": "BzFe0a0gx1E",
+						"publishedAt": "2020-06-06T18:41:12Z"
+					},
+					{
+						"title": "The Scope - EDENCOM Prepares for Triglavian Invasion",
+						"thumbnail": "https://i.ytimg.com/vi/WesSAyq7YwA/mqdefault.jpg",
+						"videoId": "WesSAyq7YwA",
+						"publishedAt": "2020-05-20T19:36:59Z"
+					},
+					{
+						"title": "The Scope - Triglavian developments and fighting in HEK.",
+						"thumbnail": "https://i.ytimg.com/vi/riOCXfxwhXc/mqdefault.jpg",
+						"videoId": "riOCXfxwhXc",
+						"publishedAt": "2019-12-13T02:02:29Z"
+					},
+					{
+						"title": "The Scope - Blackout Lifted",
+						"thumbnail": "https://i.ytimg.com/vi/jxd2FMd1oWg/mqdefault.jpg",
+						"videoId": "jxd2FMd1oWg",
+						"publishedAt": "2019-09-20T14:01:09Z"
+					},
+					{
+						"title": "The Scope - Nullsec Blackout",
+						"thumbnail": "https://i.ytimg.com/vi/IpbLpKNQiUk/mqdefault.jpg",
+						"videoId": "IpbLpKNQiUk",
+						"publishedAt": "2019-07-05T12:32:33Z"
+					},
+					{
+						"title": "The Scope - Breaking News: Drifter Invasion",
+						"thumbnail": "https://i.ytimg.com/vi/PD_usNKF9Yo/mqdefault.jpg",
+						"videoId": "PD_usNKF9Yo",
+						"publishedAt": "2019-06-28T15:17:19Z"
+					},
+					{
+						"title": "The Scope - Triglavian Invasion Escalates",
+						"thumbnail": "https://i.ytimg.com/vi/czhC7OTDfeU/mqdefault.jpg",
+						"videoId": "czhC7OTDfeU",
+						"publishedAt": "2019-06-07T11:20:53Z"
+					},
+					{
+						"title": "The Scope - Triglavian construction site discovered and Katia Sae completes her world tour",
+						"thumbnail": "https://i.ytimg.com/vi/EJC5jQSXn6U/mqdefault.jpg",
+						"videoId": "EJC5jQSXn6U",
+						"publishedAt": "2019-03-23T13:22:05Z"
+					},
+					{
+						"title": "The Scope - Triglavians Take Over Billboards",
+						"thumbnail": "https://i.ytimg.com/vi/v2Mj8g4k2Gs/mqdefault.jpg",
+						"videoId": "v2Mj8g4k2Gs",
+						"publishedAt": "2019-03-15T17:33:13Z"
+					},
+					{
+						"title": "The Scope - Rage Keepstar Under Siege",
+						"thumbnail": "https://i.ytimg.com/vi/G6UdMpYtY-w/mqdefault.jpg",
+						"videoId": "G6UdMpYtY-w",
+						"publishedAt": "2018-12-14T19:54:17Z"
+					},
+					{
+						"title": "The Scope - The Triglavian Collective Revealed",
+						"thumbnail": "https://i.ytimg.com/vi/S_gA1i_ZeWA/mqdefault.jpg",
+						"videoId": "S_gA1i_ZeWA",
+						"publishedAt": "2018-04-27T14:45:04Z"
+					},
+					{
+						"title": "The Scope – Blood Raider Shipyard Under Attack!",
+						"thumbnail": "https://i.ytimg.com/vi/HIN973qCxyo/mqdefault.jpg",
+						"videoId": "HIN973qCxyo",
+						"publishedAt": "2017-05-22T16:19:48Z"
+					},
+					{
+						"title": "The Scope – YC119 Kyonoke Inquest",
+						"thumbnail": "https://i.ytimg.com/vi/xp_T-IdZA7g/mqdefault.jpg",
+						"videoId": "xp_T-IdZA7g",
+						"publishedAt": "2017-04-07T18:56:48Z"
+					},
+					{
+						"title": "The Scope – DED Releases Details On Guardian Angels Infrastructure",
+						"thumbnail": "https://i.ytimg.com/vi/BwgthGo6Wss/mqdefault.jpg",
+						"videoId": "BwgthGo6Wss",
+						"publishedAt": "2017-02-14T15:41:45Z"
+					},
+					{
+						"title": "The Scope – M-OEE8 Conflict Culminates In Destruction Of CO2 Keepstar",
+						"thumbnail": "https://i.ytimg.com/vi/ZEN10EHEF0c/mqdefault.jpg",
+						"videoId": "ZEN10EHEF0c",
+						"publishedAt": "2016-12-13T18:10:11Z"
+					},
+					{
+						"title": "The Scope – Circle-Of-Two Prepare For Defense Of M-OEE8 Keepstar",
+						"thumbnail": "https://i.ytimg.com/vi/HqBsZ9FYCfg/mqdefault.jpg",
+						"videoId": "HqBsZ9FYCfg",
+						"publishedAt": "2016-12-09T16:38:39Z"
+					},
+					{
+						"title": "The Scope – Alpha Clone Technology Introduced Across New Eden",
+						"thumbnail": "https://i.ytimg.com/vi/SqP0-aJ7f4M/mqdefault.jpg",
+						"videoId": "SqP0-aJ7f4M",
+						"publishedAt": "2016-11-18T21:19:05Z"
+					},
+					{
+						"title": "The Scope - Cloning Research Facility  Attacked",
+						"thumbnail": "https://i.ytimg.com/vi/CLTFFB__trQ/mqdefault.jpg",
+						"videoId": "CLTFFB__trQ",
+						"publishedAt": "2016-10-29T00:06:26Z"
+					},
+					{
+						"title": "The Scope – Imperial Guard Forms Up In Preparation For Coronation Of Catiz I",
+						"thumbnail": "https://i.ytimg.com/vi/RCNNbB1C674/mqdefault.jpg",
+						"videoId": "RCNNbB1C674",
+						"publishedAt": "2016-09-27T12:16:27Z"
+					},
+					{
+						"title": "The Scope – Amarr Coronation preparations continue as CSM Summit commences",
+						"thumbnail": "https://i.ytimg.com/vi/LgOi6vDSct4/mqdefault.jpg",
+						"videoId": "LgOi6vDSct4",
+						"publishedAt": "2016-09-14T13:50:26Z"
+					},
+					{
+						"title": "The Scope – First Keepstar Destroyed in Nalvula",
+						"thumbnail": "https://i.ytimg.com/vi/tVz4IfjpoS4/mqdefault.jpg",
+						"videoId": "tVz4IfjpoS4",
+						"publishedAt": "2016-08-26T17:10:12Z"
+					},
+					{
+						"title": "The Scope – Upwell Consortium Hands Serpentis Assets to CONCORD",
+						"thumbnail": "https://i.ytimg.com/vi/r0LhyK5Kc_0/mqdefault.jpg",
+						"videoId": "r0LhyK5Kc_0",
+						"publishedAt": "2016-07-01T13:27:22Z"
+					},
+					{
+						"title": "The Scope – First Keepstar deployed by Hard Knocks Citizens",
+						"thumbnail": "https://i.ytimg.com/vi/7fNYZNBIkSU/mqdefault.jpg",
+						"videoId": "7fNYZNBIkSU",
+						"publishedAt": "2016-05-27T16:15:30Z"
+					},
+					{
+						"title": "The Scope – World War Bee rages on as conflict erupts over first constructed citadels",
+						"thumbnail": "https://i.ytimg.com/vi/o1M6RHAxH74/mqdefault.jpg",
+						"videoId": "o1M6RHAxH74",
+						"publishedAt": "2016-05-06T16:53:11Z"
+					},
+					{
+						"title": "The Scope – Imperial Succession Trials Celebrations Begin!",
+						"thumbnail": "https://i.ytimg.com/vi/YzL8HtvBgX0/mqdefault.jpg",
+						"videoId": "YzL8HtvBgX0",
+						"publishedAt": "2016-04-21T14:02:23Z"
+					},
+					{
+						"title": "The Scope – Conflict continues as MBC advance on the North",
+						"thumbnail": "https://i.ytimg.com/vi/xAFw2kLe2OA/mqdefault.jpg",
+						"videoId": "xAFw2kLe2OA",
+						"publishedAt": "2016-04-08T19:29:57Z"
+					},
+					{
+						"title": "The Scope - Hostilities escalate in northern regions",
+						"thumbnail": "https://i.ytimg.com/vi/xWxs8PLFrHY/mqdefault.jpg",
+						"videoId": "xWxs8PLFrHY",
+						"publishedAt": "2016-04-01T16:15:39Z"
+					},
+					{
+						"title": "The Scope – Circle Of Two severs ties with Imperium after Tribute Defeat",
+						"thumbnail": "https://i.ytimg.com/vi/cZoDicnKWrg/mqdefault.jpg",
+						"videoId": "cZoDicnKWrg",
+						"publishedAt": "2016-03-31T15:15:10Z"
+					},
+					{
+						"title": "The Scope – Rogue pilots urge capsuleer attacks on Guristas assets",
+						"thumbnail": "https://i.ytimg.com/vi/yCMYIqsiUFo/mqdefault.jpg",
+						"videoId": "yCMYIqsiUFo",
+						"publishedAt": "2016-03-18T13:11:38Z"
+					},
+					{
+						"title": "The Scope – SoE Announces Project Discovery",
+						"thumbnail": "https://i.ytimg.com/vi/vLtgO8ODr_M/mqdefault.jpg",
+						"videoId": "vLtgO8ODr_M",
+						"publishedAt": "2016-03-09T14:24:02Z"
+					},
+					{
+						"title": "The Scope – Upwell announces winners of first Citadel blueprints",
+						"thumbnail": "https://i.ytimg.com/vi/M-_MICm0LYo/mqdefault.jpg",
+						"videoId": "M-_MICm0LYo",
+						"publishedAt": "2016-02-16T17:31:50Z"
+					},
+					{
+						"title": "The Scope – Upwell Consortium announces first Citadel builds",
+						"thumbnail": "https://i.ytimg.com/vi/9degKqzL5Xs/mqdefault.jpg",
+						"videoId": "9degKqzL5Xs",
+						"publishedAt": "2016-01-26T13:47:36Z"
+					},
+					{
+						"title": "The Scope – Operation Frostline Continues After Serpentis Attack",
+						"thumbnail": "https://i.ytimg.com/vi/-NMHf0MfNU4/mqdefault.jpg",
+						"videoId": "-NMHf0MfNU4",
+						"publishedAt": "2015-12-22T02:44:29Z"
+					},
+					{
+						"title": "The Scope - Mordu's Legion Announce Operation Frostline",
+						"thumbnail": "https://i.ytimg.com/vi/z8SA1RMHcEc/mqdefault.jpg",
+						"videoId": "z8SA1RMHcEc",
+						"publishedAt": "2015-12-08T11:54:07Z"
+					},
+					{
+						"title": "The Scope – ORE Confirms Theft Of Tech & Blueprints",
+						"thumbnail": "https://i.ytimg.com/vi/_PPlOzltoWo/mqdefault.jpg",
+						"videoId": "_PPlOzltoWo",
+						"publishedAt": "2015-12-04T17:31:57Z"
+					},
+					{
+						"title": "The Scope – Mordu’s Legion Assault ORE stations in Outer Ring",
+						"thumbnail": "https://i.ytimg.com/vi/ZyYs4sdBTvk/mqdefault.jpg",
+						"videoId": "ZyYs4sdBTvk",
+						"publishedAt": "2015-11-27T18:25:15Z"
+					},
+					{
+						"title": "The Scope – CreoDron Reveals New Command Destroyer Hull",
+						"thumbnail": "https://i.ytimg.com/vi/gLV2ZNuJVug/mqdefault.jpg",
+						"videoId": "gLV2ZNuJVug",
+						"publishedAt": "2015-11-20T14:58:42Z"
+					},
+					{
+						"title": "The Scope – Drifter Forces Mount Second Assault On Throne Worlds",
+						"thumbnail": "https://i.ytimg.com/vi/-jvCgF1yN70/mqdefault.jpg",
+						"videoId": "-jvCgF1yN70",
+						"publishedAt": "2015-11-11T10:54:09Z"
+					},
+					{
+						"title": "The Scope – The Amarr Championships",
+						"thumbnail": "https://i.ytimg.com/vi/MMNIHfIB9OM/mqdefault.jpg",
+						"videoId": "MMNIHfIB9OM",
+						"publishedAt": "2015-11-07T15:55:31Z"
+					},
+					{
+						"title": "The Scope – The Crimson Harvest",
+						"thumbnail": "https://i.ytimg.com/vi/4qXrOLO7NwU/mqdefault.jpg",
+						"videoId": "4qXrOLO7NwU",
+						"publishedAt": "2015-10-20T15:22:00Z"
+					},
+					{
+						"title": "The Scope – Dread Guristas Steal Supercarrier in Daring Raid",
+						"thumbnail": "https://i.ytimg.com/vi/2AbxlFJHt6M/mqdefault.jpg",
+						"videoId": "2AbxlFJHt6M",
+						"publishedAt": "2015-09-29T15:04:03Z"
+					},
+					{
+						"title": "The Scope – Empress Jamyl Sarum attacked in Safizon",
+						"thumbnail": "https://i.ytimg.com/vi/46aRYr0IZi0/mqdefault.jpg",
+						"videoId": "46aRYr0IZi0",
+						"publishedAt": "2015-08-21T18:27:36Z"
+					},
+					{
+						"title": "The Scope - Drifter forces assault Amarr Navy Headquarters in Safizon",
+						"thumbnail": "https://i.ytimg.com/vi/AXBFbCtjkAg/mqdefault.jpg",
+						"videoId": "AXBFbCtjkAg",
+						"publishedAt": "2015-08-14T15:48:28Z"
+					},
+					{
+						"title": "The Scope – Lai Dai supply convoy ambushed!",
+						"thumbnail": "https://i.ytimg.com/vi/lg6Fw9YJMTI/mqdefault.jpg",
+						"videoId": "lg6Fw9YJMTI",
+						"publishedAt": "2015-07-24T18:01:52Z"
+					},
+					{
+						"title": "The Scope - Hecate formally unveiled in Federation Navy press release",
+						"thumbnail": "https://i.ytimg.com/vi/kATF1BQ9gKk/mqdefault.jpg",
+						"videoId": "kATF1BQ9gKk",
+						"publishedAt": "2015-06-19T15:52:47Z"
+					},
+					{
+						"title": "The Scope - New Entosis Link capabilities revealed",
+						"thumbnail": "https://i.ytimg.com/vi/OnwlckvkXHw/mqdefault.jpg",
+						"videoId": "OnwlckvkXHw",
+						"publishedAt": "2015-06-12T15:08:24Z"
+					},
+					{
+						"title": "The Scope - Fate Of Hilen Tukoss Confirmed",
+						"thumbnail": "https://i.ytimg.com/vi/-pPTm17y-E0/mqdefault.jpg",
+						"videoId": "-pPTm17y-E0",
+						"publishedAt": "2015-06-05T21:56:16Z"
+					},
+					{
+						"title": "The Scope – Amarr Empire releases new technology",
+						"thumbnail": "https://i.ytimg.com/vi/DzrC0OUOQG4/mqdefault.jpg",
+						"videoId": "DzrC0OUOQG4",
+						"publishedAt": "2015-05-29T15:25:14Z"
+					},
+					{
+						"title": "The Scope – Jackdaw Enters Caldari Navy Service",
+						"thumbnail": "https://i.ytimg.com/vi/ndln1phJplQ/mqdefault.jpg",
+						"videoId": "ndln1phJplQ",
+						"publishedAt": "2015-05-22T20:00:47Z"
+					},
+					{
+						"title": "The Scope – Further Turmoil in New Eden",
+						"thumbnail": "https://i.ytimg.com/vi/D409XwhKzjw/mqdefault.jpg",
+						"videoId": "D409XwhKzjw",
+						"publishedAt": "2015-05-15T18:02:35Z"
+					},
+					{
+						"title": "The Scope – Hilen Tukoss Broadcast Revealed",
+						"thumbnail": "https://i.ytimg.com/vi/i12yk3fZVHw/mqdefault.jpg",
+						"videoId": "i12yk3fZVHw",
+						"publishedAt": "2015-05-08T15:30:52Z"
+					},
+					{
+						"title": "The Scope – Imperial Navy mobilizes in response to drifter presence",
+						"thumbnail": "https://i.ytimg.com/vi/1cVy35E-pjY/mqdefault.jpg",
+						"videoId": "1cVy35E-pjY",
+						"publishedAt": "2015-05-01T13:57:08Z"
+					},
+					{
+						"title": "The Scope - DED Release Drifter Autopsy Findings",
+						"thumbnail": "https://i.ytimg.com/vi/8cx8Ac44RL4/mqdefault.jpg",
+						"videoId": "8cx8Ac44RL4",
+						"publishedAt": "2015-04-24T16:00:24Z"
+					},
+					{
+						"title": "The Scope – Narcotics Smugglers Apprehended",
+						"thumbnail": "https://i.ytimg.com/vi/FqLQZA4qfWE/mqdefault.jpg",
+						"videoId": "FqLQZA4qfWE",
+						"publishedAt": "2015-04-18T06:57:48Z"
+					},
+					{
+						"title": "The Scope: War Erupts in the South!",
+						"thumbnail": "https://i.ytimg.com/vi/i0AAhcLORvs/mqdefault.jpg",
+						"videoId": "i0AAhcLORvs",
+						"publishedAt": "2015-04-10T16:00:09Z"
+					},
+					{
+						"title": "The Scope: First Glimpses of the Jackdaw",
+						"thumbnail": "https://i.ytimg.com/vi/OZ2rxz2vkEY/mqdefault.jpg",
+						"videoId": "OZ2rxz2vkEY",
+						"publishedAt": "2015-04-01T14:24:02Z"
+					},
+					{
+						"title": "The Scope: Drifter Activity Intensifies",
+						"thumbnail": "https://i.ytimg.com/vi/ZFy2KTGYlYI/mqdefault.jpg",
+						"videoId": "ZFy2KTGYlYI",
+						"publishedAt": "2015-03-27T16:55:27Z"
+					},
+					{
+						"title": "The Scope: The Vagrant",
+						"thumbnail": "https://i.ytimg.com/vi/MyzO1IteOqk/mqdefault.jpg",
+						"videoId": "MyzO1IteOqk",
+						"publishedAt": "2015-03-13T13:25:47Z"
+					},
+					{
+						"title": "The Scope – Emergent Threats Prompt Unprecedented Symposium",
+						"thumbnail": "https://i.ytimg.com/vi/GCZjvVxFLxI/mqdefault.jpg",
+						"videoId": "GCZjvVxFLxI",
+						"publishedAt": "2015-03-20T19:19:33Z"
+					},
+					{
+						"title": "The Scope: Southern Conflict",
+						"thumbnail": "https://i.ytimg.com/vi/Lfg5kXFQvTg/mqdefault.jpg",
+						"videoId": "Lfg5kXFQvTg",
+						"publishedAt": "2015-03-06T15:39:23Z"
+					},
+					{
+						"title": "The Scope: Drifter Sightings",
+						"thumbnail": "https://i.ytimg.com/vi/prykUrUhDiQ/mqdefault.jpg",
+						"videoId": "prykUrUhDiQ",
+						"publishedAt": "2015-02-25T12:38:48Z"
+					},
+					{
+						"title": "The Scope: Shattered Worlds",
+						"thumbnail": "https://i.ytimg.com/vi/grNLMpiZvq0/mqdefault.jpg",
+						"videoId": "grNLMpiZvq0",
+						"publishedAt": "2015-02-25T12:38:48Z"
+					},
+					{
+						"title": "The Scope: Caroline’s Star",
+						"thumbnail": "https://i.ytimg.com/vi/oEwOyBYWSAU/mqdefault.jpg",
+						"videoId": "oEwOyBYWSAU",
+						"publishedAt": "2015-02-25T12:38:39Z"
+					}
+				]
+			},
+			"newsContent": {
+				"ids": [
+					"4MDM4YFfP1kNX6OGKCmLuG",
+					"5OM1gP7ihRWawahjykKmqi",
+					"1zAT5NRVAq97ZecDKl4Ett",
+					"2AATDnloNcULo35MXHtMMD",
+					"6vmp7oy5RGqebg3BIhzFCY",
+					"2ZUnI7UiLnKEJBxeAWBRdN",
+					"NG9nSUiNS3edxMmgrlLDE",
+					"20qkY7OmtTRjIlN6LSMcre",
+					"QD9IoijfyyfxSwiUbOcnu",
+					"3UMN9JkjQXBytuxZUaMSvU",
+					"35fBDSZ6vNvab54J1k0c9u",
+					"1ePWuU9oCb2hAXQesjXWxE",
+					"6cNhHhDTkeZYPDXTiwRgnD",
+					"57nChzq8jKkVYpf9NcH85e",
+					"1qy7xVL12JyTIx79sbYmDK",
+					"1Zjd5LEDIvt6VXKzN9uGZv",
+					"2AoYlOdYtYqP5oOp972WiV",
+					"31tinZdwDQUhAUptb9ZTYx",
+					"0zUrXplpKyx9DVdWNgobG",
+					"1cXt4G8wZcDa2QILGegAQg"
+				],
+				"entities": {
+					"4MDM4YFfP1kNX6OGKCmLuG": {
+						"id": "4MDM4YFfP1kNX6OGKCmLuG",
+						"title": "Patch Notes - Version 22.02",
+						"slug": "patch-notes-version-22-02",
+						"tags": [
+							"patch-notes"
+						],
+						"category": "patch-notes",
+						"author": "EVE Online Team",
+						"publishingDate": "2025-02-06",
+						"metaDescription": "Patch Notes released on 6 February are now available!",
+						"src": "https://images.ctfassets.net/7lhcm73ukv5p/2t840GbDZtihSUCuUAuJ0W/7a5a7b6fb0dcf62a75d7e18ff3d42ae1/2024.11.08.10.49.49.png?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://www.eveonline.com/news/view/patch-notes-version-22-02"
+					},
+					"5OM1gP7ihRWawahjykKmqi": {
+						"id": "5OM1gP7ihRWawahjykKmqi",
+						"title": "Building the Future with EVE Evolved",
+						"slug": "building-the-future-with-eve-evolved",
+						"tags": [
+							"development-updates",
+							"eve-evolved"
+						],
+						"category": "news",
+						"author": "EVE Online Team",
+						"publishingDate": "2025-02-06",
+						"metaDescription": "Cutting-edge improvements, system by system ",
+						"src": "https://images.ctfassets.net/7lhcm73ukv5p/7IU7gtnhu7kHhVSlLxytgG/4da51f16de9ddb1e7a8bce103f24df50/Screenshot_NoCopy_1920x1080.jpg?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://www.eveonline.com/news/view/building-the-future-with-eve-evolved"
+					},
+					"1zAT5NRVAq97ZecDKl4Ett": {
+						"id": "1zAT5NRVAq97ZecDKl4Ett",
+						"title": "Capsuleer Efforts Lead to Influence Improvements as Crisis Continues",
+						"slug": "capsuleer-efforts-lead-to-influence-improvements-as-crisis-continues",
+						"tags": [
+							"universe"
+						],
+						"category": "New Eden News",
+						"publishingDate": "2025-02-04",
+						"metaDescription": "Capsuleer Efforts Lead to Influence Improvements as Crisis Continues Capsuleers have successfully completed more than 7,000 operations against the Drifters. Thanks to this, military forces are ready to deploy more effective intel as a second wave of Crisis sites has begun to appear. These superior intel networks are bolstered by additional support from the SOCT. According to Elder Mentor Matshi Raish, “The Society will be working alongside Amarr, Caldari, Gallente, and Minmatar response teams to purge [...]",
+						"src": "https://images.ctfassets.net/1gqwxa4vbed9/7gvUP8k4mzzzdbYF9XIuUK/89523b2a99cad2e5bd2b24bb4780c11d/RescueOp.png?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://universe.eveonline.com/new-eden-news/capsuleer-efforts-lead-to-influence-improvements-as-crisis-continues"
+					},
+					"2AATDnloNcULo35MXHtMMD": {
+						"id": "2AATDnloNcULo35MXHtMMD",
+						"title": "Community Beat for 31 January",
+						"slug": "community-beat-for-31-january",
+						"tags": [
+							"community"
+						],
+						"category": "news",
+						"author": "EVE Online Community Team",
+						"publishingDate": "2025-01-31",
+						"metaDescription": "Your regular update on what's happening around New Eden!",
+						"src": "https://images.ctfassets.net/7lhcm73ukv5p/7JMCitrtdOyCPisLYuGlnL/fb9ea53d2d6b54c22c5442efe579dafe/CommBeat3840x2160.jpg?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://www.eveonline.com/news/view/community-beat-for-31-january"
+					},
+					"6vmp7oy5RGqebg3BIhzFCY": {
+						"id": "6vmp7oy5RGqebg3BIhzFCY",
+						"title": "Drifter Crisis: Defend New Eden",
+						"slug": "drifter-crisis-defend-new-eden",
+						"tags": [
+							"expansion",
+							"in-game-events"
+						],
+						"category": "news",
+						"author": "EVE Online Team",
+						"publishingDate": "2025-01-30",
+						"metaDescription": "Fight against Drifter forces for great rewards.",
+						"src": "https://images.ctfassets.net/7lhcm73ukv5p/7CEYh1VNBWakSLIuKOTXnA/ab706b94ec8443a687f938a5e024bf97/Screenshot_NoCopy_3840x2160.jpg?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://www.eveonline.com/news/view/drifter-crisis-defend-new-eden"
+					},
+					"2ZUnI7UiLnKEJBxeAWBRdN": {
+						"id": "2ZUnI7UiLnKEJBxeAWBRdN",
+						"title": "Communication is Key – Local Chat Test",
+						"slug": "communication-is-key-local-chat-test",
+						"tags": [
+							"test-servers",
+							"eve-evolved"
+						],
+						"category": "news",
+						"author": "EVE Online Team",
+						"publishingDate": "2025-01-30",
+						"metaDescription": "Join the Singularity mass test ",
+						"src": "https://images.ctfassets.net/7lhcm73ukv5p/7IU7gtnhu7kHhVSlLxytgG/4da51f16de9ddb1e7a8bce103f24df50/Screenshot_NoCopy_1920x1080.jpg?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://www.eveonline.com/news/view/communication-is-key-local-chat-test"
+					},
+					"NG9nSUiNS3edxMmgrlLDE": {
+						"id": "NG9nSUiNS3edxMmgrlLDE",
+						"title": "Grab your Lunar New Year gift from the NES",
+						"slug": "grab-your-lunar-new-year-gift-from-the-nes",
+						"tags": [
+							"offers"
+						],
+						"category": "news",
+						"author": "EVE Online Team",
+						"publishingDate": "2025-01-30",
+						"metaDescription": "A free gift is waiting for you in the New Eden Store! Head to the store now to open your Resplendent Coil Crate and claim a free firework, SKINR components and 8 free PLEX.",
+						"src": "https://images.ctfassets.net/7lhcm73ukv5p/7qc2DC3MqFexjix3evzxqE/6f7816ecafe08f0b1b3fd62280601322/LNY_crate_nocopy_1920x1080.png?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://www.eveonline.com/news/view/grab-your-lunar-new-year-gift-from-the-nes"
+					},
+					"20qkY7OmtTRjIlN6LSMcre": {
+						"id": "20qkY7OmtTRjIlN6LSMcre",
+						"title": "Cluster in Crisis as Drifters Attack",
+						"slug": "cluster-in-crisis-as-drifters-attack",
+						"tags": [
+							"universe"
+						],
+						"category": "New Eden News",
+						"publishingDate": "2025-01-29",
+						"metaDescription": "Drifters Attack Systems Across Cluster Drifter-controlled forces have attacked solar systems in all four major nations. The attacks have focused on civilian infrastructure, triggering the deployment of military crisis response forces. Initial strikes by the Drifters have already led to a death toll in the thousands, with that number expected to climb as the violence continues. The motivation behind the Drifter aggression is unclear. The targeted systems are of little strategic significance, there are [...]",
+						"src": "https://images.ctfassets.net/1gqwxa4vbed9/6hGm45L47oRGMi262dKjI0/74606ff3b6d10b25a74c703d37c05530/image-20250129-182047.png?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://universe.eveonline.com/new-eden-news/cluster-in-crisis-as-drifters-attack"
+					},
+					"QD9IoijfyyfxSwiUbOcnu": {
+						"id": "QD9IoijfyyfxSwiUbOcnu",
+						"title": "LUNAR NEW YEAR SAVINGS",
+						"slug": "lunar-new-year-savings",
+						"tags": [
+							"offers"
+						],
+						"category": "news",
+						"author": "EVE Online Team",
+						"publishingDate": "2025-01-29",
+						"metaDescription": "SKINS, PLEX, OMEGA & MORE",
+						"src": "https://images.ctfassets.net/7lhcm73ukv5p/3VHMvlA7yXd2LjqdqYqTck/56bc245f6cb3050965b9d4bbf6b956cf/Snakeskin_Promo_Screen_Nocopy.jpg?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://www.eveonline.com/news/view/lunar-new-year-savings"
+					},
+					"3UMN9JkjQXBytuxZUaMSvU": {
+						"id": "3UMN9JkjQXBytuxZUaMSvU",
+						"title": "Fanfest 2025 Live Stream: Meet the Hosts",
+						"slug": "fanfest-2025-live-stream-meet-the-hosts",
+						"tags": [
+							"fanfest"
+						],
+						"category": "news",
+						"author": "EVE Online Team",
+						"publishingDate": "2025-01-28",
+						"metaDescription": "Fanfest 2025 will see the return of player hosts working with CCP to produce the live stream. ",
+						"src": "https://images.ctfassets.net/7lhcm73ukv5p/37QvXuKbmynb3peAtJIs0x/39fa8b81bc94778e2b67eaec77e25e64/Fanfest_2025_Player_Hosts.png?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://www.eveonline.com/news/view/fanfest-2025-live-stream-meet-the-hosts"
+					},
+					"35fBDSZ6vNvab54J1k0c9u": {
+						"id": "35fBDSZ6vNvab54J1k0c9u",
+						"title": "Directors’ Chat: 2025 & Beyond",
+						"slug": "directors-chat-2025-and-beyond",
+						"tags": [],
+						"category": "news",
+						"author": "EVE Online Team",
+						"publishingDate": "2025-01-27",
+						"metaDescription": "A look at the previous and upcoming years in New Eden",
+						"src": "https://images.ctfassets.net/7lhcm73ukv5p/5Er4Y1XPjLAo8uZ6Mdt6TZ/3a60048c0ce4c4c0f9ef3630a8953e14/Screenshot_Copy_1920x1080.jpg?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://www.eveonline.com/news/view/directors-chat-2025-and-beyond"
+					},
+					"1ePWuU9oCb2hAXQesjXWxE": {
+						"id": "1ePWuU9oCb2hAXQesjXWxE",
+						"title": "Save 25% on select PLEX packages!",
+						"slug": "save-25-on-select-plex-packages",
+						"tags": [
+							"offers"
+						],
+						"category": "news",
+						"author": "EVE Online Team",
+						"publishingDate": "2025-01-24",
+						"metaDescription": "The EVE Store is offering a limited time offer on PLEX – don’t miss it!",
+						"src": "https://images.ctfassets.net/7lhcm73ukv5p/7zhDt5LgKAkq6e7TJZYhBk/ce79c5dac784c43c8d5e1b749734eca9/Screenshot_Copy_3840x2160.jpg?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://www.eveonline.com/news/view/save-25-on-select-plex-packages"
+					},
+					"6cNhHhDTkeZYPDXTiwRgnD": {
+						"id": "6cNhHhDTkeZYPDXTiwRgnD",
+						"title": "Community Beat for 17 January",
+						"slug": "community-beat-for-17-january",
+						"tags": [
+							"community"
+						],
+						"category": "news",
+						"author": "EVE Online Community Team",
+						"publishingDate": "2025-01-17",
+						"metaDescription": "Your regular update on what's happening around New Eden!",
+						"src": "https://images.ctfassets.net/7lhcm73ukv5p/7JMCitrtdOyCPisLYuGlnL/fb9ea53d2d6b54c22c5442efe579dafe/CommBeat3840x2160.jpg?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://www.eveonline.com/news/view/community-beat-for-17-january"
+					},
+					"57nChzq8jKkVYpf9NcH85e": {
+						"id": "57nChzq8jKkVYpf9NcH85e",
+						"title": "Up to 30% off Skill Training in the NES",
+						"slug": "up-to-30-off-skill-training-in-the-nes",
+						"tags": [
+							"offers"
+						],
+						"category": "news",
+						"author": "EVE Online Team",
+						"publishingDate": "2025-01-17",
+						"metaDescription": "Reach your training goals for 2025 faster for less!",
+						"src": "https://images.ctfassets.net/7lhcm73ukv5p/JVThJ7SFmD9bdkj2kWZxg/29b1991208afbc873eb7822462313cbf/Boost_bundle_-_NES.png?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://www.eveonline.com/news/view/up-to-30-off-skill-training-in-the-nes"
+					},
+					"1qy7xVL12JyTIx79sbYmDK": {
+						"id": "1qy7xVL12JyTIx79sbYmDK",
+						"title": "Save up to 30% on Skill Training",
+						"slug": "save-up-to-30-on-skill-training",
+						"tags": [
+							"offers"
+						],
+						"category": "news",
+						"author": "EVE Online Team",
+						"publishingDate": "2025-01-09",
+						"metaDescription": "Reach your training goals for 2025 faster for less!",
+						"src": "https://images.ctfassets.net/7lhcm73ukv5p/1KR6hcUR8BgDQ0qCcCycKr/605b0990a4c7f6ba3b15f76ed99e2558/1750000_Product-Card-5_1920x1080.jpg?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://www.eveonline.com/news/view/save-up-to-30-on-skill-training"
+					},
+					"1Zjd5LEDIvt6VXKzN9uGZv": {
+						"id": "1Zjd5LEDIvt6VXKzN9uGZv",
+						"title": "Monthly Economic Report - December 2024",
+						"slug": "monthly-economic-report-december-2024",
+						"tags": [],
+						"category": "dev-blogs",
+						"author": "EVE Online Economic Council",
+						"publishingDate": "2025-01-08",
+						"metaDescription": "The Monthly Economic Report for December 2024 is now available!",
+						"src": "https://images.ctfassets.net/7lhcm73ukv5p/m54ICjNKxKm7gj7yFGpr2/da9deb4ef0d70955711eddbd23418306/EVE_News_EN_1920x1080.jpg?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://www.eveonline.com/news/view/monthly-economic-report-december-2024"
+					},
+					"2AoYlOdYtYqP5oOp972WiV": {
+						"id": "2AoYlOdYtYqP5oOp972WiV",
+						"title": "Grab your gift from the NES",
+						"slug": "grab-your-gift-from-the-nes",
+						"tags": [
+							"offers"
+						],
+						"category": "news",
+						"author": "EVE Online Team",
+						"publishingDate": "2024-12-27",
+						"metaDescription": "A free gift is waiting for you in the New Eden Store! Head to the store now to open your Yoiul Festival Celebration Crate and claim a free firework and 20 free PLEX.",
+						"src": "https://images.ctfassets.net/7lhcm73ukv5p/4dlpbKYnBT9PaIgvPBm0KH/5ad03d0d5cd3553ebd9fe1dc4310fe78/Screenshot_NoCopy_1920x1080.jpg?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://www.eveonline.com/news/view/grab-your-gift-from-the-nes"
+					},
+					"31tinZdwDQUhAUptb9ZTYx": {
+						"id": "31tinZdwDQUhAUptb9ZTYx",
+						"title": "Save 50% on Omega + MCT Bundles!",
+						"slug": "save-50-on-omega-mct-bundles",
+						"tags": [
+							"offers"
+						],
+						"category": "news",
+						"author": "EVE Online Team",
+						"publishingDate": "2024-12-24",
+						"metaDescription": "Treat yourself and your alts",
+						"src": "https://images.ctfassets.net/7lhcm73ukv5p/2yj7JHKASWKcGYCb7JlkwC/b2a513404baf96f67fd8db6db5763bfd/Screenshot_nocopy_1920x1080.jpg?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://www.eveonline.com/news/view/save-50-on-omega-mct-bundles"
+					},
+					"0zUrXplpKyx9DVdWNgobG": {
+						"id": "0zUrXplpKyx9DVdWNgobG",
+						"title": "Paragon Offers 25% Sequencing Discount",
+						"slug": "paragon-offers-25-sequencing-discount",
+						"tags": [
+							"offers"
+						],
+						"category": "news",
+						"author": "EVE Online Team",
+						"publishingDate": "2024-12-23",
+						"metaDescription": "For a limited time, save 25% when sequencing your SKINs in the Paragon Hub!",
+						"src": "https://images.ctfassets.net/7lhcm73ukv5p/5f84ZLdPVZoEOe9KH36XHm/ead6f687c133bea9588c7077201ac8c9/Screenshot_NoCopy_1920x1080.jpg?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://www.eveonline.com/news/view/paragon-offers-25-sequencing-discount"
+					},
+					"1cXt4G8wZcDa2QILGegAQg": {
+						"id": "1cXt4G8wZcDa2QILGegAQg",
+						"title": "Community Beat for 20 December",
+						"slug": "community-beat-for-20-december",
+						"tags": [],
+						"category": "news",
+						"author": "EVE Online Community Team",
+						"publishingDate": "2024-12-20",
+						"metaDescription": "Your regular update on what's happening around New Eden!",
+						"src": "https://images.ctfassets.net/7lhcm73ukv5p/7JMCitrtdOyCPisLYuGlnL/fb9ea53d2d6b54c22c5442efe579dafe/CommBeat3840x2160.jpg?w=350&fm=jpg&fl=progressive&q=90",
+						"url": "https://www.eveonline.com/news/view/community-beat-for-20-december"
+					}
+				}
+			}
+		},
+		"de": {
+			"background": {
+				"content": {
+					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/pfZt9whz8gBvMU1GjTGxt/effc3b024e3629d00fe0983db46f5ba1/equinox_launcher_dark_bg.jpg"
+				},
+				"updatedAt": 1738803642417
+			},
+			"creatives": {
+				"creatives": [],
+				"updatedAt": 0
+			},
+			"imageGallery": {
+				"items": []
+			},
+			"newPlayerContent": {
+				"content": [
+					{
+						"button": "Explore the Universe",
+						"subtitle": "EVE Universe",
+						"description": "From the origins of mankind’s presence in New Eden more than 15,000 years ago to the history and cultures of the modern Empires, the legacies and descendants of ancient factions, and the stories of those who inhabit New Eden, EVE is an ever-evolving story whose rich and enduring setting has been unfolding continually for nearly two decades.",
+						"title": "Explore New Eden through the lore of EVE",
+						"url": "https://universe.eveonline.com/"
+					},
+					{
+						"button": "Zu Omega aufwerten",
+						"subtitle": "Werte zu Omega auf, um das volle Potenzial von EVE Online auszuschöpfen",
+						"description": "Der Klonstatus Omega ermöglicht es dir, Skills doppelt so schnell wie Alpha-Klone zu trainieren und gewährt dir Zugang zu all den besten Skills von EVE. Das erlaubt es dir, auf dem Weg deiner Wahl darauf hinzuarbeiten, über 350 Schiffe zu fliegen.",
+						"title": "Klonstatus Omega",
+						"url": "https://store.eveonline.com/#omega",
+						"tags": [
+							"alpha"
+						]
+					},
+					{
+						"button": "Besuche die EVE Academy",
+						"subtitle": "Die Macht Von Alts",
+						"description": "Wenn du dich schon eine Weile mit EVE Online beschäftigst, dann hast du andere Piloten vielleicht schon über ihre „Alts“ sprechen hören.  Einfach gesagt sind Alts zusätzliche Charaktere, die du mit deinem EVE Online-Account erstellst.",
+						"title": "Du kannst auf deinem Account insgesamt einen Hauptcharakter und zwei Alts haben",
+						"url": "https://www.eveonline.com/de/eve-academy/alt-accounts"
+					},
+					{
+						"button": "Erlerne die Kampfmechaniken",
+						"subtitle": "Erlerne die Grundlagen des Kampfes in EVE Online",
+						"description": "Durch die direkte Verbindung mit ihrem Schiff haben Kapselpiloten die absolute Kontrolle über jede seiner Aktionen – einschließlich aller Kampfelemente. Daher ist es unerlässlich, dass du die Prinzipien der zahlreichen Waffen, Taktiken und Verteidigungsmaßnahmen verstehst, die dir zur Verfügung stehen.",
+						"title": "Kampfmechaniken",
+						"url": "https://www.eveonline.com/de/eve-academy/ships/combat-mechanics"
+					},
+					{
+						"button": "Besuche die EVE Academy",
+						"subtitle": "Spieler-Corporations",
+						"description": "Corporations sind mehr als bloße Versammlungen von Kapselpiloten – sie bieten exzellente Möglichkeiten für gemeinsame Reisen und Unterstützung. So erzielen gemeinsame Anstrengungen Ergebnisse, die die Fähigkeiten von alleine handelnden Einzelpersonen weit übertreffen. ",
+						"title": "Stärke In Der Masse – 2+2=5",
+						"url": "https://www.eveonline.com/de/eve-academy/corporations"
+					},
+					{
+						"button": "Erkunde die Frontlinien",
+						"subtitle": "New-Eden-Kriegsbericht",
+						"description": "Fraktionskriegsführung ist ein Konflikt zwischen Corporations, die einem der vier Imperien von New Eden angehören. Für Mitglieder einer Fraktionskrieg führenden Corporation werden alle Regionen des imperialen Weltraums (mit hoher oder niederer Sicherheit) zum Kriegsgebiet, in welchem Sie und Ihre Fraktionsverbündeten feindliche Piloten ohne Eingreifen von CONCORD angreifen können.",
+						"title": "Das Universum steckt im Krieg, entscheide dich für eine Seite",
+						"url": "https://www.eveonline.com/de/frontlines"
+					}
+				],
+				"updatedAt": 1739072273052
+			},
+			"playArea": {
+				"content": {
+					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/4VHu6C9wVm8CxcGct06cxi/6f621d1cac5406d185a59408f298eef7/9_625x200.jpg"
+				},
+				"updatedAt": 1738803642136
+			},
+			"youtubePlaylist": {
+				"items": []
+			},
+			"newsContent": {
+				"ids": [],
+				"entities": {}
+			}
+		},
+		"fr": {
+			"background": {
+				"content": {
+					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/pfZt9whz8gBvMU1GjTGxt/effc3b024e3629d00fe0983db46f5ba1/equinox_launcher_dark_bg.jpg"
+				},
+				"updatedAt": 1738803641757
+			},
+			"creatives": {
+				"creatives": [],
+				"updatedAt": 0
+			},
+			"imageGallery": {
+				"items": []
+			},
+			"newPlayerContent": {
+				"content": [
+					{
+						"button": "Explore the Universe",
+						"subtitle": "EVE Universe",
+						"description": "From the origins of mankind’s presence in New Eden more than 15,000 years ago to the history and cultures of the modern Empires, the legacies and descendants of ancient factions, and the stories of those who inhabit New Eden, EVE is an ever-evolving story whose rich and enduring setting has been unfolding continually for nearly two decades.",
+						"title": "Explore New Eden through the lore of EVE",
+						"url": "https://universe.eveonline.com/"
+					},
+					{
+						"button": "Passez à Omega",
+						"subtitle": "Passez à Omega pour exploiter le plein potentiel d'EVE Online",
+						"description": "Les clones Omega permettent d'acquérir des compétences deux fois plus rapidement que les clones Alpha et d'accéder aux meilleures compétences en jeu, mais aussi de piloter plus de 350 vaisseaux tout en vous consacrant à la voie de votre choix.",
+						"title": "Statut de clone Omega",
+						"url": "https://store.eveonline.com/#omega",
+						"tags": [
+							"alpha"
+						]
+					},
+					{
+						"button": "Visiter EVE Academy",
+						"subtitle": "Exploiter Le Potentiel Des Personnages Alternatifs",
+						"description": "Si vous avez déjà passé quelque temps sur EVE Online, vous avez peut-être entendu parler des « alts ».  Les alts sont tout simplement les « personnages alternatifs » créés sur votre compte EVE Online.",
+						"title": "Chaque compte peut cumuler jusqu'à un personnage principal et deux personnages alternatifs",
+						"url": "https://www.eveonline.com/fr/eve-academy/alt-accounts"
+					},
+					{
+						"button": "Apprenez les mécaniques de combat",
+						"subtitle": "Étudiez les bases du combat dans EVE Online",
+						"description": "Directement relié à son vaisseau, un capsulier exerce un contrôle absolu sur chacune de ses actions, y compris tous les éléments de combat. Il est donc essentiel que vous compreniez les principes qui régissent les nombreuses armes, tactiques et défenses à votre disposition.",
+						"title": "Mécaniques de combat",
+						"url": "https://www.eveonline.com/fr/eve-academy/ships/combat-mechanics"
+					},
+					{
+						"button": "Visiter EVE Academy",
+						"subtitle": "Corporations De Joueurs",
+						"description": "Les corporations sont bien plus que de simples regroupements de capsuliers : elles représentent d'excellents moyens d'accéder à des aventures et un soutien partagés, dont les efforts conjugués produisent des résultats amplement supérieurs à ceux que l'on peut atteindre seul. ",
+						"title": "La Force Est Dans Le Nombre – 2 + 2 = 5",
+						"url": "https://www.eveonline.com/fr/eve-academy/corporations"
+					},
+					{
+						"button": "Explorez les lignes de front",
+						"subtitle": "Rapport sur les guerres de New Eden",
+						"description": "La guerre de factions est un conflit perpétuel entre les corporations alignées avec un des quatre empires de New Eden. Pour les membres de corporation de guerre de factions, toutes les régions de l'espace de l'empire (haute et basse sécurité) deviennent une zone de guerre dans laquelle vous et vos alliés de faction pouvez attaquer librement les pilotes des milices ennemies sans l'intervention de CONCORD.",
+						"title": "L'univers est une zone de guerre et il est temps de choisir un camp",
+						"url": "https://www.eveonline.com/fr/frontlines"
+					}
+				],
+				"updatedAt": 1739072273180
+			},
+			"playArea": {
+				"content": {
+					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/4VHu6C9wVm8CxcGct06cxi/6f621d1cac5406d185a59408f298eef7/9_625x200.jpg"
+				},
+				"updatedAt": 1738803641846
+			},
+			"youtubePlaylist": {
+				"items": []
+			},
+			"newsContent": {
+				"ids": [],
+				"entities": {}
+			}
+		},
+		"ja": {
+			"background": {
+				"content": {
+					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/pfZt9whz8gBvMU1GjTGxt/effc3b024e3629d00fe0983db46f5ba1/equinox_launcher_dark_bg.jpg"
+				},
+				"updatedAt": 1738803641666
+			},
+			"creatives": {
+				"creatives": [],
+				"updatedAt": 0
+			},
+			"imageGallery": {
+				"items": []
+			},
+			"newPlayerContent": {
+				"content": [
+					{
+						"button": "Explore the Universe",
+						"subtitle": "EVE Universe",
+						"description": "From the origins of mankind’s presence in New Eden more than 15,000 years ago to the history and cultures of the modern Empires, the legacies and descendants of ancient factions, and the stories of those who inhabit New Eden, EVE is an ever-evolving story whose rich and enduring setting has been unfolding continually for nearly two decades.",
+						"title": "Explore New Eden through the lore of EVE",
+						"url": "https://universe.eveonline.com/"
+					},
+					{
+						"button": "オメガにアップグレード",
+						"subtitle": "オメガにアップグレードしてEVE Onlineの可能性を最大限に引き出す",
+						"description": "オメガクローン状態になればスキルのトレーニング速度がアルファクローンの2倍になるほか、自分で選んだ道を追い求めつつ、350種類を超える艦船を操縦できるようになるEVEの各種上級スキルにアクセスできるようになります。",
+						"title": "オメガクローン状態",
+						"url": "https://store.eveonline.com/#omega",
+						"tags": [
+							"alpha"
+						]
+					},
+					{
+						"button": "EVE アカデミーにアクセス",
+						"subtitle": "サブキャラクターの力を活用しましょう",
+						"description": "EVE Onlineをある程度遊んだことがあるなら、自分以外のパイロットたちが「サブ」について話しているのを見かけたことがあるかもしれません。簡単に言うと、サブとはEVE Onlineのアカウントに作成した「サブキャラクター」のことです。",
+						"title": "簡単に言うと、サブとはEVE Onlineのアカウントに作成した「サブキャラクター」のことです",
+						"url": "https://www.eveonline.com/ja/eve-academy/alt-accounts"
+					},
+					{
+						"button": "戦闘の仕組みを学ぶ",
+						"subtitle": "EVE Onlineにおける戦闘の基本を学ぶ",
+						"description": "艦船と直に接続されているカプセラは、戦闘に関する部分を含め、艦船の全てを完璧にコントロールしています。そのため、利用できる数多くの兵器、戦術、そして防衛用装備の使用する際の原則について理解することが欠かせません。",
+						"title": "戦闘の仕組み",
+						"url": "https://www.eveonline.com/ja/eve-academy/ships/combat-mechanics"
+					},
+					{
+						"button": "EVE アカデミーにアクセス",
+						"subtitle": "プレイヤーコーポレーション",
+						"description": "コーポレーションはただのカプセラの集団ではありません。共通の目標を目指し、サポートを得る素晴らしい手段であり、協力することで単独行動をはるかに超える成果を出すことができます。 ",
+						"title": "2+2=5――数は力なり",
+						"url": "https://www.eveonline.com/ja/eve-academy/corporations"
+					},
+					{
+						"button": "最前線を探索する",
+						"subtitle": "ニューエデン戦争報告",
+						"description": "国家間戦争とは、ニューエデンの4大国家のいずれかに味方するコーポレーション間で行われている、果てのない戦いのことです。国家間戦争に参加しているコーポレーションのメンバーにとって、帝国領域（ハイセクとローセク）の全てのリージョンが戦場となります。この領域内において、あなたとあなたの勢力の同盟者は、CONCORDの干渉を受けることなく敵義勇軍のパイロットを自由に攻撃できます。",
+						"title": "戦場は宇宙。陣営を選べ。",
+						"url": "https://www.eveonline.com/ja/frontlines"
+					}
+				],
+				"updatedAt": 1739072273129
+			},
+			"playArea": {
+				"content": {
+					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/4VHu6C9wVm8CxcGct06cxi/6f621d1cac5406d185a59408f298eef7/9_625x200.jpg"
+				},
+				"updatedAt": 1738803641802
+			},
+			"youtubePlaylist": {
+				"items": []
+			},
+			"newsContent": {
+				"ids": [],
+				"entities": {}
+			}
+		},
+		"ko": {
+			"background": {
+				"content": {
+					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/pfZt9whz8gBvMU1GjTGxt/effc3b024e3629d00fe0983db46f5ba1/equinox_launcher_dark_bg.jpg"
+				},
+				"updatedAt": 1738803642506
+			},
+			"creatives": {
+				"creatives": [],
+				"updatedAt": 0
+			},
+			"imageGallery": {
+				"items": []
+			},
+			"newPlayerContent": {
+				"content": [
+					{
+						"button": "Explore the Universe",
+						"subtitle": "EVE Universe",
+						"description": "From the origins of mankind’s presence in New Eden more than 15,000 years ago to the history and cultures of the modern Empires, the legacies and descendants of ancient factions, and the stories of those who inhabit New Eden, EVE is an ever-evolving story whose rich and enduring setting has been unfolding continually for nearly two decades.",
+						"title": "Explore New Eden through the lore of EVE",
+						"url": "https://universe.eveonline.com/"
+					},
+					{
+						"button": "오메가로 업그레이드하기",
+						"subtitle": "오메가로 업그레이드해 모든 능력을 발휘하세요",
+						"description": "오메가 클론은 알파 클론보다 스킬을 두 배 빠르게 훈련할 수 있습니다. 또한 스킬 및 함선 제한이 해제되어 EVE Online의 모든 스킬을 배울 수 있으며 350종이 넘는 함선을 직접 운행할 수 있습니다.",
+						"title": "오메가 클론",
+						"url": "https://store.eveonline.com/#omega",
+						"tags": [
+							"alpha"
+						]
+					},
+					{
+						"button": "EVE 아카데미 방문",
+						"subtitle": "부캐릭터의 잠재력을 활용하세요",
+						"description": "If you've spent some time around EVE Online, you might have heard other pilots talking about their ‘alts’.  Simply put, alts are ‘alternative characters’ created on your EVE Online account. ",
+						"title": "You can have up to one main and two alts on your account in total",
+						"url": "https://www.eveonline.com/ko/eve-academy/alt-accounts"
+					},
+					{
+						"button": "전투 메커니즘 배우기",
+						"subtitle": "EVE Online 전투의 기본을 알아보세요",
+						"description": "캡슐리어는 함선과 직접 연결해 함선의 모든 움직임을 통제합니다. 물론 전투에 필요한 기동도 직접 수행하죠. 따라서 캡슐리어는 각종 무기 사용법, 전략전술, 방어수단을 반드시 숙지해야만 합니다.",
+						"title": "전투 메커니즘",
+						"url": "https://www.eveonline.com/ko/eve-academy/ships/combat-mechanics"
+					},
+					{
+						"button": "EVE 아카데미 방문",
+						"subtitle": "플레이어 코퍼레이션",
+						"description": "코퍼레이션은 단순히 캡슐리어가 모인 단체가 아닙니다. 같은 목표를 향해 전진해 나가는 특수한 조직으로, 혼자서는 절대 닿을 수 없는 위대한 업적을 달성할 수 있습니다. ",
+						"title": "2+2 = 5, \"뭉치면 살고, 흩어지면 죽는다\"",
+						"url": "https://www.eveonline.com/ko/eve-academy/corporations"
+					},
+					{
+						"button": "전선 탐험",
+						"subtitle": "뉴 에덴 전쟁 보고서",
+						"description": "팩션 전쟁은 4대 국가와 동맹을 맺은 코퍼레이션이 벌이는 전쟁입니다. 팩션 전쟁에 참여하면 해당 국가의 모든 지역(하이 시큐리티 및 로우 시큐리티 포함)에서 적대 팩션의 캡슐리어를 자유롭게 공격할 수 있으며 CONCORD는 이에 개입하지 않습니다. 참가자들은 소속 팩션을 위해 전투에 뛰어들어 전쟁 영역 내의 각 성계를 점령합니다.",
+						"title": "우주가 전쟁에 휩싸였습니다",
+						"url": "https://www.eveonline.com/ko/frontlines"
+					}
+				],
+				"updatedAt": 1739072273104
+			},
+			"playArea": {
+				"content": {
+					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/4VHu6C9wVm8CxcGct06cxi/6f621d1cac5406d185a59408f298eef7/9_625x200.jpg"
+				},
+				"updatedAt": 1738803641779
+			},
+			"youtubePlaylist": {
+				"items": []
+			},
+			"newsContent": {
+				"ids": [],
+				"entities": {}
+			}
+		},
+		"ru": {
+			"background": {
+				"content": {
+					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/pfZt9whz8gBvMU1GjTGxt/effc3b024e3629d00fe0983db46f5ba1/equinox_launcher_dark_bg.jpg"
+				},
+				"updatedAt": 1738803642115
+			},
+			"creatives": {
+				"creatives": [],
+				"updatedAt": 0
+			},
+			"imageGallery": {
+				"items": []
+			},
+			"newPlayerContent": {
+				"content": [
+					{
+						"button": "Explore the Universe",
+						"subtitle": "EVE Universe",
+						"description": "From the origins of mankind’s presence in New Eden more than 15,000 years ago to the history and cultures of the modern Empires, the legacies and descendants of ancient factions, and the stories of those who inhabit New Eden, EVE is an ever-evolving story whose rich and enduring setting has been unfolding continually for nearly two decades.",
+						"title": "Explore New Eden through the lore of EVE",
+						"url": "https://universe.eveonline.com/"
+					},
+					{
+						"button": "Оформить омега-статус",
+						"subtitle": "Оформите омега-статус и раскройте весь потенциал EVE Online",
+						"description": "Пилоты с омега-статусом обучаются вдвое быстрее, чем альфа-клоны, и получают доступ ко всем продвинутым навыкам EVE Online, что позволяет освоить управление любым из более чем 350 кораблей и стремительно развиваться в выбранной профессии.",
+						"title": "Клон с омега-статусом",
+						"url": "https://store.eveonline.com/#omega",
+						"tags": [
+							"alpha"
+						]
+					},
+					{
+						"button": "Посетите Академию EVE",
+						"subtitle": "Раскройте Потенциал Ваших «Альтов»",
+						"description": "Если вы уже знакомы с EVE Online, возможно, вы слышали, как пилоты болтают о своих «альтах».  «Альты» — это альтернативные персонажи, привязанные к учётной записи EVE.",
+						"title": "Всего на одной учётной записи могут числиться один основной персонаж и два альтернативных",
+						"url": "https://www.eveonline.com/ru/eve-academy/alt-accounts"
+					},
+					{
+						"button": "Изучить боевые механики",
+						"subtitle": "Освойте азы боя в EVE Online",
+						"description": "Капсулёр и его корабль составляют единое целое. Пилот управляет каждым движением своего судна и всеми средствами ведения боя. Именно поэтому так важно понимать принципы работы орудий, знать военные тактики и правильно использовать средства защиты от вражеских атак.",
+						"title": "Боевые механики",
+						"url": "https://www.eveonline.com/ru/eve-academy/ships/combat-mechanics"
+					},
+					{
+						"button": "Посетите Академию EVE",
+						"subtitle": "Корпорации Игроков",
+						"description": "Корпорации — это не просто сообщества капсулёров. В этих объединениях пилоты помогают друг другу и работают сообща для достижения общих целей, ведь вместе можно добиться гораздо большего, чем поодиночке. ",
+						"title": "Сила В Количестве: 2+2=5",
+						"url": "https://www.eveonline.com/ru/eve-academy/corporations"
+					},
+					{
+						"button": "Исследуйте линии фронта",
+						"subtitle": "Отчет о Войнах Нового Эдема",
+						"description": "Межгосударственная война — это конфликт между корпорациями, поддерживающими ту или иную сверхдержаву Нового Эдема, который протекает в зонах боевых действий. Для членов корпорации, участвующей в межгосударственной войне, все системы в пространстве сверхдержав (как с высоким, так и с низким уровнем безопасности) превращаются в области, где вы и ваши союзники можете свободно атаковать пилотов из вражеских ополчений без вмешательства КОНКОРДа.",
+						"title": "Вся вселенная — зона боевых действий",
+						"url": "https://www.eveonline.com/ru/frontlines"
+					}
+				],
+				"updatedAt": 1739072273079
+			},
+			"playArea": {
+				"content": {
+					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/4VHu6C9wVm8CxcGct06cxi/6f621d1cac5406d185a59408f298eef7/9_625x200.jpg"
+				},
+				"updatedAt": 1738803641620
+			},
+			"youtubePlaylist": {
+				"items": []
+			},
+			"newsContent": {
+				"ids": [],
+				"entities": {}
+			}
+		},
+		"es": {
+			"background": {
+				"content": {
+					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/pfZt9whz8gBvMU1GjTGxt/effc3b024e3629d00fe0983db46f5ba1/equinox_launcher_dark_bg.jpg"
+				},
+				"updatedAt": 1738803641869
+			},
+			"creatives": {
+				"creatives": [],
+				"updatedAt": 0
+			},
+			"imageGallery": {
+				"items": []
+			},
+			"newPlayerContent": {
+				"content": [
+					{
+						"button": "Explore the Universe",
+						"subtitle": "EVE Universe",
+						"description": "From the origins of mankind’s presence in New Eden more than 15,000 years ago to the history and cultures of the modern Empires, the legacies and descendants of ancient factions, and the stories of those who inhabit New Eden, EVE is an ever-evolving story whose rich and enduring setting has been unfolding continually for nearly two decades.",
+						"title": "Explore New Eden through the lore of EVE",
+						"url": "https://universe.eveonline.com/"
+					},
+					{
+						"button": "Mejorar a Omega",
+						"subtitle": "Mejora a Omega para desbloquear todo el potencial de EVE Online",
+						"description": "El estatus de clon Omega te permite desarrollar habilidades al doble de velocidad que los clones Alfa y te da acceso a las mejores habilidades de EVE, con lo que podrás prepararte para pilotar más de 350 naves mientras sigues la trayectoria que has elegido.",
+						"title": "Estatus de clon Omega",
+						"url": "https://store.eveonline.com/#omega",
+						"tags": [
+							"alpha"
+						]
+					},
+					{
+						"button": "Visita Academia EVE",
+						"subtitle": "Domina El Poder De Los Alt",
+						"description": "Si ya llevas un tiempo en EVE Online, puede que hayas oído a otros pilotos hablar sobre sus «alt».  En pocas palabras, son personajes alternativos creados en tu cuenta de EVE Online.",
+						"title": "En tu cuenta, puedes tener hasta un máximo de un personaje principal y dos alternativos en total",
+						"url": "https://www.eveonline.com/es/eve-academy/alt-accounts"
+					},
+					{
+						"button": "Aprender la mecánica de combate",
+						"subtitle": "Aprende los conceptos básicos del combate en EVE Online",
+						"description": "Tras interactuar directamente con su nave, los capsulistas asumen el control total del instrumental de a bordo, incluidos todos los elementos de combate. Por tanto, es esencial entender los principios de las numerosas armas, tácticas y sistemas de defensa disponibles.",
+						"title": "Mecánica de combate",
+						"url": "https://www.eveonline.com/es/eve-academy/ships/combat-mechanics"
+					},
+					{
+						"button": "Visita Academia EVE",
+						"subtitle": "Corporaciones De Jugadores",
+						"description": "Las corporaciones son más que meras asambleas de capsulistas: son excelentes vías para los viajes compartidos y obtener apoyo, y en ellas los esfuerzos combinados producen resultados que superan con creces las capacidades de los individuos que actúan solos. ",
+						"title": "La Unión Hace La Fuerza: 2+2=5",
+						"url": "https://www.eveonline.com/es/eve-academy/corporations"
+					},
+					{
+						"button": "Explora las líneas del frente",
+						"subtitle": "Informe de las guerras del Nuevo Edén",
+						"description": "La guerra de facciones es un conflicto perpetuo entre corporaciones, alineadas con uno de los cuatro imperios de Nuevo Edén. Para los miembros de una corporación de la guerra de facciones, todas las regiones del espacio imperial (con seguridades alta y baja) se convierten en una zona bélica en la que tus aliados de facción y tú podéis atacar libremente a los pilotos de las milicias enemigas sin que CONCORD se entrometa.",
+						"title": "El universo es una zona de guerra y es hora de elegir un bando",
+						"url": "https://www.eveonline.com/es/frontlines"
+					}
+				],
+				"updatedAt": 1739072273205
+			},
+			"playArea": {
+				"content": {
+					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/4VHu6C9wVm8CxcGct06cxi/6f621d1cac5406d185a59408f298eef7/9_625x200.jpg"
+				},
+				"updatedAt": 1738803641733
+			},
+			"youtubePlaylist": {
+				"items": []
+			},
+			"newsContent": {
+				"ids": [],
+				"entities": {}
+			}
+		},
+		"zh": {
+			"background": {
+				"content": {
+					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/pfZt9whz8gBvMU1GjTGxt/effc3b024e3629d00fe0983db46f5ba1/equinox_launcher_dark_bg.jpg"
+				},
+				"updatedAt": 1738803641957
+			},
+			"creatives": {
+				"creatives": [],
+				"updatedAt": 0
+			},
+			"imageGallery": {
+				"items": []
+			},
+			"newPlayerContent": {
+				"content": [
+					{
+						"button": "Explore the Universe",
+						"subtitle": "EVE Universe",
+						"description": "From the origins of mankind’s presence in New Eden more than 15,000 years ago to the history and cultures of the modern Empires, the legacies and descendants of ancient factions, and the stories of those who inhabit New Eden, EVE is an ever-evolving story whose rich and enduring setting has been unfolding continually for nearly two decades.",
+						"title": "Explore New Eden through the lore of EVE",
+						"url": "https://universe.eveonline.com/"
+					},
+					{
+						"button": "升级到欧米伽克隆",
+						"subtitle": "升级到欧米伽克隆，即可激发EVE Online的全部潜能",
+						"description": "欧米伽克隆拥有阿尔法克隆两倍的技能训练速度，并且可以解锁EVE的所有最强技能，让你在踏上选定的职业道路后，有望驾驶超过350艘舰船。",
+						"title": "欧米伽克隆",
+						"url": "https://store.eveonline.com/#omega",
+						"tags": [
+							"alpha"
+						]
+					},
+					{
+						"button": "造访新伊甸学院",
+						"subtitle": "创建小号，释放力量",
+						"description": "如果你已经玩了一段时间的EVE Online，你可能听其他飞行员聊起过他们的“小号”。简单来说，小号就是你的EVE Online账号上创建的“替代人物”。 ",
+						"title": "你的账号中最多可以有一个大号和两个小号",
+						"url": "https://www.eveonline.com/zh/eve-academy/alt-accounts"
+					},
+					{
+						"button": "掌握战斗机制",
+						"subtitle": "掌握EVE Online战斗的基础知识",
+						"description": "克隆飞行员直接与各自的舰船连接，完全掌控舰船的所有行动，包括一切战斗要素。因此必须了解各种可用武器、战术和防御系统的操作原理。",
+						"title": "战斗机制",
+						"url": "https://www.eveonline.com/zh/eve-academy/ships/combat-mechanics"
+					},
+					{
+						"button": "造访新伊甸学院",
+						"subtitle": "玩家军团",
+						"description": "军团不仅是克隆飞行员的集合体，更是共享旅程和互帮互助的绝佳平台。集体努力产出的结果远超个人单独行动所能达成的成就。 ",
+						"title": "人数优势2+2=5",
+						"url": "https://www.eveonline.com/zh/eve-academy/corporations"
+					},
+					{
+						"button": "探索前线",
+						"subtitle": "新伊甸战争报告",
+						"description": "势力战争是与新伊甸的四大帝国结盟的各个军团在战区中进行的永恒争斗。 对于势力战争军团的成员来说，在帝国领地的所有星域（包括高安和低安），你和盟军都可以自由攻击敌对势力的飞行员而不受统一合作关系部干预。 势力战争参与者要为自己的势力夺取战区中的星系。",
+						"title": "当宇宙成为战区，是时候选择立场了",
+						"url": "https://www.eveonline.com/zh/frontlines"
+					}
+				],
+				"updatedAt": 1739072273230
+			},
+			"playArea": {
+				"content": {
+					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/4VHu6C9wVm8CxcGct06cxi/6f621d1cac5406d185a59408f298eef7/9_625x200.jpg"
+				},
+				"updatedAt": 1738803641935
+			},
+			"youtubePlaylist": {
+				"items": []
+			},
+			"newsContent": {
+				"ids": [],
+				"entities": {}
+			}
+		},
+		"tx": {
+			"background": {
+				"updatedAt": 0
+			},
+			"creatives": {
+				"creatives": [],
+				"updatedAt": 0
+			},
+			"imageGallery": {
+				"items": []
+			},
+			"newPlayerContent": {
+				"content": [],
+				"updatedAt": 0
+			},
+			"playArea": {
+				"updatedAt": 0
+			},
+			"youtubePlaylist": {
+				"items": []
+			},
+			"newsContent": {
+				"ids": [],
+				"entities": {}
+			}
+		}
+	},
+	"eve-launcher": {
+		"en": {},
+		"de": {},
+		"fr": {},
+		"ja": {},
+		"ko": {},
+		"ru": {},
+		"es": {},
+		"zh": {},
+		"tx": {}
+	},
+	"eve-vanguard": {
+		"en": {
+			"background": {
+				"content": {
+					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/2hPREmbT0zVuiLNOEmZ0yV/609754470150335c727050c094ec2c69/vanguard_keyart.jpg"
+				},
+				"updatedAt": 1738803642647
+			},
+			"creatives": {
+				"evergreen": {
+					"id": "1",
+					"campaignId": "1",
+					"url": "https://evevanguard.com/how-to-play",
+					"image": "cache+https://launcher.ccpgames.com/eve-online/creatives/evergreen/vanguard-how-to-play/en.png",
+					"weight": "0"
+				},
+				"creatives": [],
+				"updatedAt": 0
+			},
+			"imageGallery": {
+				"items": []
+			},
+			"playArea": {
+				"content": {
+					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/mUyHrVovWc7nES6nOYbq4/20e8e77e9b3abd4ac97d349c50123d23/New-LauncherSize_355x218_3.png"
+				},
+				"updatedAt": 1738803642363
+			},
+			"youtubePlaylist": {
+				"items": []
+			},
+			"newsContent": {
+				"ids": [],
+				"entities": {}
+			}
+		},
+		"de": {
+			"background": {
+				"content": {
+					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/2hPREmbT0zVuiLNOEmZ0yV/609754470150335c727050c094ec2c69/vanguard_keyart.jpg"
+				},
+				"updatedAt": 1738803642693
+			},
+			"creatives": {
+				"evergreen": {
+					"id": "1",
+					"campaignId": "1",
+					"url": "https://evevanguard.com/how-to-play",
+					"image": "cache+https://launcher.ccpgames.com/eve-online/creatives/evergreen/vanguard-how-to-play/en.png",
+					"weight": "0"
+				},
+				"creatives": [],
+				"updatedAt": 0
+			},
+			"imageGallery": {
+				"items": []
+			},
+			"playArea": {
+				"content": {
+					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/mUyHrVovWc7nES6nOYbq4/20e8e77e9b3abd4ac97d349c50123d23/New-LauncherSize_355x218_3.png"
+				},
+				"updatedAt": 1738803642158
+			},
+			"youtubePlaylist": {
+				"items": []
+			},
+			"newsContent": {
+				"ids": [],
+				"entities": {}
+			}
+		},
+		"fr": {
+			"background": {
+				"content": {
+					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/2hPREmbT0zVuiLNOEmZ0yV/609754470150335c727050c094ec2c69/vanguard_keyart.jpg"
+				},
+				"updatedAt": 1738803642911
+			},
+			"creatives": {
+				"evergreen": {
+					"id": "1",
+					"campaignId": "1",
+					"url": "https://evevanguard.com/how-to-play",
+					"image": "cache+https://launcher.ccpgames.com/eve-online/creatives/evergreen/vanguard-how-to-play/en.png",
+					"weight": "0"
+				},
+				"creatives": [],
+				"updatedAt": 0
+			},
+			"imageGallery": {
+				"items": []
+			},
+			"playArea": {
+				"content": {
+					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/mUyHrVovWc7nES6nOYbq4/20e8e77e9b3abd4ac97d349c50123d23/New-LauncherSize_355x218_3.png"
+				},
+				"updatedAt": 1738803642247
+			},
+			"youtubePlaylist": {
+				"items": []
+			},
+			"newsContent": {
+				"ids": [],
+				"entities": {}
+			}
+		},
+		"ja": {
+			"background": {
+				"content": {
+					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/2hPREmbT0zVuiLNOEmZ0yV/609754470150335c727050c094ec2c69/vanguard_keyart.jpg"
+				},
+				"updatedAt": 1738803642785
+			},
+			"creatives": {
+				"evergreen": {
+					"id": "1",
+					"campaignId": "1",
+					"url": "https://evevanguard.com/how-to-play",
+					"image": "cache+https://launcher.ccpgames.com/eve-online/creatives/evergreen/vanguard-how-to-play/en.png",
+					"weight": "0"
+				},
+				"creatives": [],
+				"updatedAt": 0
+			},
+			"imageGallery": {
+				"items": []
+			},
+			"playArea": {
+				"content": {
+					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/mUyHrVovWc7nES6nOYbq4/20e8e77e9b3abd4ac97d349c50123d23/New-LauncherSize_355x218_3.png"
+				},
+				"updatedAt": 1738803642315
+			},
+			"youtubePlaylist": {
+				"items": []
+			},
+			"newsContent": {
+				"ids": [],
+				"entities": {}
+			}
+		},
+		"ko": {
+			"background": {
+				"content": {
+					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/2hPREmbT0zVuiLNOEmZ0yV/609754470150335c727050c094ec2c69/vanguard_keyart.jpg"
+				},
+				"updatedAt": 1738803642740
+			},
+			"creatives": {
+				"evergreen": {
+					"id": "1",
+					"campaignId": "1",
+					"url": "https://evevanguard.com/how-to-play",
+					"image": "cache+https://launcher.ccpgames.com/eve-online/creatives/evergreen/vanguard-how-to-play/en.png",
+					"weight": "0"
+				},
+				"creatives": [],
+				"updatedAt": 0
+			},
+			"imageGallery": {
+				"items": []
+			},
+			"playArea": {
+				"content": {
+					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/mUyHrVovWc7nES6nOYbq4/20e8e77e9b3abd4ac97d349c50123d23/New-LauncherSize_355x218_3.png"
+				},
+				"updatedAt": 1738803642462
+			},
+			"youtubePlaylist": {
+				"items": []
+			},
+			"newsContent": {
+				"ids": [],
+				"entities": {}
+			}
+		},
+		"ru": {
+			"background": {
+				"content": {
+					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/2hPREmbT0zVuiLNOEmZ0yV/609754470150335c727050c094ec2c69/vanguard_keyart.jpg"
+				},
+				"updatedAt": 1738803642871
+			},
+			"creatives": {
+				"evergreen": {
+					"id": "1",
+					"campaignId": "1",
+					"url": "https://evevanguard.com/how-to-play",
+					"image": "cache+https://launcher.ccpgames.com/eve-online/creatives/evergreen/vanguard-how-to-play/en.png",
+					"weight": "0"
+				},
+				"creatives": [],
+				"updatedAt": 0
+			},
+			"imageGallery": {
+				"items": []
+			},
+			"playArea": {
+				"content": {
+					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/mUyHrVovWc7nES6nOYbq4/20e8e77e9b3abd4ac97d349c50123d23/New-LauncherSize_355x218_3.png"
+				},
+				"updatedAt": 1738803642484
+			},
+			"youtubePlaylist": {
+				"items": []
+			},
+			"newsContent": {
+				"ids": [],
+				"entities": {}
+			}
+		},
+		"es": {
+			"background": {
+				"content": {
+					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/2hPREmbT0zVuiLNOEmZ0yV/609754470150335c727050c094ec2c69/vanguard_keyart.jpg"
+				},
+				"updatedAt": 1738803642933
+			},
+			"creatives": {
+				"evergreen": {
+					"id": "1",
+					"campaignId": "1",
+					"url": "https://evevanguard.com/how-to-play",
+					"image": "cache+https://launcher.ccpgames.com/eve-online/creatives/evergreen/vanguard-how-to-play/en.png",
+					"weight": "0"
+				},
+				"creatives": [],
+				"updatedAt": 0
+			},
+			"imageGallery": {
+				"items": []
+			},
+			"playArea": {
+				"content": {
+					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/mUyHrVovWc7nES6nOYbq4/20e8e77e9b3abd4ac97d349c50123d23/New-LauncherSize_355x218_3.png"
+				},
+				"updatedAt": 1738803642441
+			},
+			"youtubePlaylist": {
+				"items": []
+			},
+			"newsContent": {
+				"ids": [],
+				"entities": {}
+			}
+		},
+		"zh": {
+			"background": {
+				"content": {
+					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/2hPREmbT0zVuiLNOEmZ0yV/609754470150335c727050c094ec2c69/vanguard_keyart.jpg"
+				},
+				"updatedAt": 1738803642848
+			},
+			"creatives": {
+				"evergreen": {
+					"id": "1",
+					"campaignId": "1",
+					"url": "https://evevanguard.com/how-to-play",
+					"image": "cache+https://launcher.ccpgames.com/eve-online/creatives/evergreen/vanguard-how-to-play/en.png",
+					"weight": "0"
+				},
+				"creatives": [],
+				"updatedAt": 0
+			},
+			"imageGallery": {
+				"items": []
+			},
+			"playArea": {
+				"content": {
+					"backgroundImageUrl": "cache+https://images.ctfassets.net/7lhcm73ukv5p/mUyHrVovWc7nES6nOYbq4/20e8e77e9b3abd4ac97d349c50123d23/New-LauncherSize_355x218_3.png"
+				},
+				"updatedAt": 1738803642293
+			},
+			"youtubePlaylist": {
+				"items": []
+			},
+			"newsContent": {
+				"ids": [],
+				"entities": {}
+			}
+		},
+		"tx": {
+			"background": {
+				"updatedAt": 0
+			},
+			"creatives": {
+				"evergreen": {
+					"id": "1",
+					"campaignId": "1",
+					"url": "https://evevanguard.com/how-to-play",
+					"image": "cache+https://launcher.ccpgames.com/eve-online/creatives/evergreen/vanguard-how-to-play/en.png",
+					"weight": "0"
+				},
+				"creatives": [],
+				"updatedAt": 0
+			},
+			"imageGallery": {
+				"items": []
+			},
+			"playArea": {
+				"updatedAt": 0
+			},
+			"youtubePlaylist": {
+				"items": []
+			},
+			"newsContent": {
+				"ids": [],
+				"entities": {}
+			}
+		}
+	}
+}
