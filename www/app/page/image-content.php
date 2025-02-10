@@ -40,20 +40,20 @@ site()->addJS("/app/js/imgcontent-js.php", "file");
 <h1>Creatives</h1>
 {{#creatives}}
 <hr>
-<img src="{{.}}">
+<img class="img-fluid" src="{{.}}">
 {{/creatives}}
 
 <h1>Image Gallery</h1>
 {{#imageGallery}}
 <hr>
-<img src="{{thumb}}">
-<img src="{{full}}"
+<img class="mb-1" src="{{thumb}}"><span class="ms-2 info"></span>
+<img class="img-fluid" src="{{full}}">
 {{/imageGallery}}
 
 <h1>News Content</h1>
 {{#newsContent}}
 <hr>
-<img src="{{.}}">
+<img class="img-fluid" src="{{.}}">
 {{/newsContent}}
 {{/output}}
 </script>
