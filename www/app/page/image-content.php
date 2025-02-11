@@ -46,8 +46,13 @@ site()->addJS("/app/js/imgcontent-js.php", "file");
 <h1>Image Gallery</h1>
 {{#imageGallery}}
 <hr>
-<img class="mb-1" src="{{thumb}}"><span class="ms-2 info"></span>
-<img class="img-fluid" src="{{full}}">
+<div>
+    <div class="d-flex mb-1 align-items-end info">
+        <img src="{{thumb}}">
+        <div class="ms-1"></div>
+    </div>
+    <img class="img-fluid measure-me" src="{{full}}">
+</div>
 {{/imageGallery}}
 
 <h1>News Content</h1>
