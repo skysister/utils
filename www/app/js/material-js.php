@@ -1,43 +1,54 @@
-var material = {
+<?php
+
+require $_SERVER["DOCUMENT_ROOT"] . "/app/start.php";
+$sampleDataPath = site()->getSampleDataPath("material.txt");
+$sampleData = json_encode(file_get_contents($sampleDataPath));
+$obj = "material";
+
+?>
+
+var <?=$obj?> = {
+    input: {
+        content: "#<?=$obj?>-input .content",
+        ui: "#<?=$obj?>-input"
+    },
+    output: {
+        content: "#<?=$obj?>-output .content",
+        date: "#<?=$obj?> .date",
+        table: {
+            item: ".table-<?=$obj?> .item",
+            totalPrice: ".table-<?=$obj?> .total .price"
+        },
+        template: "#<?=$obj?>",
+        ui: "#<?=$obj?>-output"
+    },
+
     onDocumentReady: function () {
-        console.log("material.onDocumentReady()");
-        OnClick.install("material"); // attaches click handlers
-        $("body").on("change", "[data-materialonchange]", material.onChange);
+        console.log("<?=$obj?>.onDocumentReady()");
+        OnClick.install("<?=$obj?>"); // attaches click handlers
+        $("body").on("change", "[data-<?=$obj?>onchange]", <?=$obj?>.onChange);
     },
 
     onAnalyze: function () {
-        var input = $("#materialInput").val();
+        var input = $(<?=$obj?>.input.content).val();
 
-        var parsed = material.parse(input);
-        var calculated = material.calculate(parsed);
-        var analyzed = material.analyze(calculated);
-        var formatted = material.format(analyzed);
+        var parsed = <?=$obj?>.parse(input);
+        var calculated = <?=$obj?>.calculate(parsed);
+        var analyzed = <?=$obj?>.analyze(calculated);
+        var formatted = <?=$obj?>.format(analyzed);
 
         // output
-        $("#material-output .report").empty()
+        $(<?=$obj?>.output.content).empty()
             .append(Mustache.render(
-                $("#material-report").html(), { sections: formatted }
+                $(<?=$obj?>.output.template).html(), { sections: formatted }
             ));
         
         // prepared
-        $(".output-date").text(moment().format(site.dateFormat));
+        $(<?=$obj?>.output.date).text(moment().format(site.dateFormat));
 
         // toggle view
-        $("#material-ui").hide();
-        $("#material-output").show();
-    },
-
-    onSampleData: function() {
-        $("#materialInput").val("Planetary materials				\nItem	Required	Available	Est. Unit price	typeID\nRobotics	2	3132	92305.71	9848\nEnriched Uranium	8	16	11280.52	44\nMechanical Parts	8	1878	10820.12	3689\nCoolant	17	5084	10635.38	9832\nOxygen	40	55455	626.62	3683\n\nMinerals				\nItem	Required	Available	Est. Unit price	typeID\nStrontium Clathrates	36	38860	2709.54	16275\nHeavy Water	303	3361493	135.94	16272\nLiquid Ozone	624	2194669	118.52	16273\nOxygen Isotopes	802	9300367	558.38	17887\n\n");
-    },
-
-    onDismiss: function () {
-        // empty input
-        $("#materialInput").val("");
-
-        // toggle view
-        $("#material-ui").show();
-        $("#material-output").hide();
+        $(<?=$obj?>.input.ui).hide();
+        $(<?=$obj?>.output.ui).show();
     },
 
     parse: function (input) {
@@ -62,12 +73,12 @@ var material = {
 
             // if there is no header, use this line
             if (tabs > 0 && header == null) {
-                header = material.parseLine(line);
+                header = <?=$obj?>.parseLine(line);
                 continue; // next line
             }
 
             // otherwise, it's data
-            parsed[current].data.push(material.parseLine(line, header));
+            parsed[current].data.push(<?=$obj?>.parseLine(line, header));
         }
 
         return parsed;
@@ -140,15 +151,15 @@ var material = {
 
     onChange: function () {
         var target = $(this);
-        var action = target.data("materialonchange");
+        var action = target.data("<?=$obj?>onchange");
 
         console.log("action is " + action);
-        if (typeof material[action] != "function") {
+        if (typeof <?=$obj?>[action] != "function") {
             console.error("Could not find method named " + action + ". Aborting.");
             return;
         }
 
-        material[action](target);
+        <?=$obj?>[action](target);
     },
 
     calculateFill: function (target) {
@@ -165,7 +176,7 @@ var material = {
         }
 
         let total = 0;
-        $(".table-material .item").each(function (index, element) {
+        $(<?=$obj?>.output.table.item).each(function (index, element) {
             const row = $(this);
             const price = parseFloat(row.find("[data-price]").data("price"));
             const required = parseFloat(row.find("[data-required]").data("required"));
@@ -189,8 +200,21 @@ var material = {
             }
         });
 
-        $(".table-material .total .price").text(total.toLocaleString(undefined, currency));
+        $(<?=$obj?>.output.table.totalPrice).text(total.toLocaleString(undefined, currency));
+    },
+
+    onDismiss: function () {
+        // empty input
+        $(<?=$obj?>.input.content).val("");
+
+        // toggle view
+        $(<?=$obj?>.input.ui).show();
+        $(<?=$obj?>.output.ui).hide();
+    },
+
+    onSampleData: function() {
+        $(<?=$obj?>.input.content).val(<?=$sampleData?>);
     }
 };
 
-$(material.onDocumentReady);
+$(<?=$obj?>.onDocumentReady);

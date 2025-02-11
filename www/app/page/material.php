@@ -3,19 +3,19 @@
 site()->layoutInit();
 site()->addPageTitle("Material Analysis");
 site()->addCSS("/app/css/material.css", "file");
-site()->addJS("/app/js/material.js", "file");
+site()->addJS("/app/js/material-js.php", "file");
 
 ?>
 
 <div class="page bar-top bar-btm bar-ssc-c">
     <div class="container">
         <h1>Eve Material Analysis</h1>
-        <div id="material-ui">
+        <div id="material-input">
             <p>Copy the material report from the Eve client as shown.</p>
             <div class="row">
                 <div class="col-md-6">
                     <form id="material-form">
-                        <textarea class="form-control" id="materialInput" rows="15" placeholder="...and paste it here."></textarea><br>
+                        <textarea class="form-control content" rows="15" placeholder="...and paste it here."></textarea><br>
                         <button class="btn btn-primary btn-ssc-c" data-material="onAnalyze">
                             Analyze
                         </button>
@@ -30,8 +30,8 @@ site()->addJS("/app/js/material.js", "file");
             </div>
         </div>
         <div id="material-output" class="mb-5" style="display: none;">
-            <p>Prepared <span class="output-date"></span></p>
-            <div class="report"></div>
+            <p>Prepared <span class="date"></span></p>
+            <div class="content"></div>
             <div class="my-3 legend d-inline-flex flex-column">
                 <div class="border-bottom border-top my-1 py-1 px-2 item-least-runs">
                     Limiting Material (least runs available)
@@ -52,7 +52,7 @@ site()->addJS("/app/js/material.js", "file");
     </div>
 </div>
 
-<script id="material-report" type="x-tmpl-mustache">
+<script id="material" type="x-tmpl-mustache">
 <table class="table table-sm table-material w-auto text-white">
 {{#sections}}
     <tr>
