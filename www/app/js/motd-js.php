@@ -3,30 +3,41 @@
 require $_SERVER["DOCUMENT_ROOT"] . "/app/start.php";
 $sampleDataPath = site()->getSampleDataPath("motd.txt");
 $sampleData = json_encode(file_get_contents($sampleDataPath));
+$obj = "motd";
 
 ?>
 
-var motd = {
+var <?=$obj?> = {
+    input: {
+        content: "#<?=$obj?>-input .content",
+        ui: "#<?=$obj?>-input"
+    },
+    output: {
+        content: "#<?=$obj?>-output .content",
+        template: "#<?=$obj?>",
+        ui: "#<?=$obj?>-output"
+    },
+
     onDocumentReady: function () {
-        console.log("motd.onDocumentReady()");
-        OnClick.install("motd"); // attaches click handlers
-        ssStorage.install("motd");
-        motd.checkStorage();
+        console.log("<?=$obj?>.onDocumentReady()");
+        OnClick.install("<?=$obj?>"); // attaches click handlers
+        ssStorage.install("<?=$obj?>");
+        <?=$obj?>.checkStorage();
     },
 
     checkStorage: function() {
-        var matches = motd.read("matches");
+        var matches = <?=$obj?>.read("matches");
         if (matches) {
             const msg = "Found these entries from before.";
-            motd.show(matches, msg);
+            <?=$obj?>.show(matches, msg);
         }
     },
 
     onParse: function () {
-        console.log("motd.onParse()");
+        console.log("<?=$obj?>.onParse()");
 
         // reduce the input to an array of lines without font tags
-        var lines = $("#motdInput").val()
+        var lines = $(<?=$obj?>.input.content).val()
             .replace(/<font[^>]+>/g, "")
             .replace(/<\/font>/g, "")
             .replace(/(<br>)+/g, "\n")
@@ -45,9 +56,9 @@ var motd = {
         }
 
         // save in local storage
-        motd.store("matches", matches);
+        <?=$obj?>.store("matches", matches);
 
-        motd.show(matches);
+        <?=$obj?>.show(matches);
     },
 
     onAdd: function() {
@@ -57,29 +68,29 @@ var motd = {
         if (!channel || !password) {
             return;
         }
-        motd.addTo("matches", {channel, password});
-        motd.checkStorage();
+        <?=$obj?>.addTo("matches", {channel, password});
+        <?=$obj?>.checkStorage();
     },
 
     show: function (matches, message = false) {
         // output
-        $("#motd-output .result").empty()
+        $(<?=$obj?>.output.content).empty()
             .append(Mustache.render(
-                $("#motd-result").html(), { matches, message }
+                $(<?=$obj?>.output.template).html(), { matches, message }
             ));
 
-        // toggle view
-        $("#motd-ui").hide();
-        $("#motd-output").show();
+            // toggle view
+        $(<?=$obj?>.input.ui).hide();
+        $(<?=$obj?>.output.ui).show();
     },
 
     onDismiss: function () {
         // empty input
-        $("#motdInput").val("");
-        
+        $(<?=$obj?>.input.content).val("");
+
         // toggle view
-        $("#motd-ui").show();
-        $("#motd-output").hide();
+        $(<?=$obj?>.input.ui).show();
+        $(<?=$obj?>.output.ui).hide();
     },
     
     onCopy: function () {
@@ -89,8 +100,8 @@ var motd = {
     },
     
     onSampleData: function () {
-        $("#motdInput").val(<?=$sampleData?>);
+        $(<?=$obj?>.input.content).val(<?=$sampleData?>);
     }
 };
 
-$(motd.onDocumentReady);
+$(<?=$obj?>.onDocumentReady);

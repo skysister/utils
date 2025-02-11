@@ -3,18 +3,18 @@
 site()->layoutInit();
 site()->addPageTitle("Message of the Day");
 site()->addCSS("/app/css/motd.css", "file");
-site()->addJS("/app/js/motd.js", "file");
+site()->addJS("/app/js/motd-js.php", "file");
 
 ?>
 
 <div class="page bar-top bar-btm bar-ssc-a">
     <div class="container">
         <h1>Message of the Day</h1>
-        <div id="motd-ui">
+        <div id="motd-input">
             <p>Copy the Loose Affiliations MotD in the <span class="text-white">Alliance</span> channel, from the Eve client as shown.</p>
             <div class="row">
                 <div class="col-md-6">
-                    <textarea class="form-control" id="motdInput" rows="15" placeholder="...and paste it here."></textarea><br>
+                    <textarea class="form-control content" rows="15" placeholder="...and paste it here."></textarea><br>
                     <button class="btn btn-primary btn-ssc-a" data-motd="onParse">
                         Show Channels and Passwords
                     </button>
@@ -29,12 +29,12 @@ site()->addJS("/app/js/motd.js", "file");
             </div>
         </div>
         <div id="motd-output" style="display: none;">
-            <div class="result"></div>
+            <div class="content"></div>
             <button class="btn btn-primary btn-ssc-a" data-motd="onDismiss">OK</button>
         </div>
     </div>
 </div>
-<script id="motd-result" type="x-tmpl-mustache">
+<script id="motd" type="x-tmpl-mustache">
 {{#message}}{{message}}{{/message}}
 <table class="table table-sm table-motd w-auto text-white">
 <tr>
