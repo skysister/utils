@@ -8,7 +8,6 @@ $obj = "imgcontent";
 ?>
 
 var <?=$obj?> = {
-
     input: {
         content: "#<?=$obj?>-input .content",
         ui: "#<?=$obj?>-input"
