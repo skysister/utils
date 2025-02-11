@@ -24,7 +24,11 @@ site()->addJS("/app/js/imgcontent-js.php", "file");
                     </form>
                 </div>
                 <div class="col-md-6">
-                    <p>File location varies by platform.</p>
+                    <p>
+                        File location varies by platform.<br>
+                        Mac: ~/Library/Application Support/EVE Online/content.json<br>
+                        Win: ?
+                    </p>
                 </div>
             </div>
         </div>
