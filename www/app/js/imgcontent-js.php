@@ -34,9 +34,28 @@ var imgcontent = {
                 $("#imgcontent").html(), { output }
             ));
 
+        $(".measure-me").on("load", function() {
+            var img = this;
+            var w = img.naturalWidth;
+            var h = img.naturalHeight;
+            var info = "Image size: " + w + " x " + h;
+
+            var gcd = imgcontent.greatestCommonDivisor(w, h);
+            if (gcd != 1 && w/gcd < 100) {
+                info += "<br>Aspect: " + w/gcd + ":" + h/gcd;
+            }
+
+            $(img).siblings(".info").find("div").html(info);
+        });
+
         // toggle view
         $("#imgcontent-ui").hide();
         $("#imgcontent-output").show();
+    },
+
+    greatestCommonDivisor: function(w, h) {
+        return (h == 0)
+            ? w : imgcontent.greatestCommonDivisor(h, w%h);
     },
 
     creativesProcess: function(data) {
