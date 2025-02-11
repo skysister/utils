@@ -9,12 +9,12 @@ site()->addJS("/app/js/imgcontent-js.php", "file");
 <div class="page bar-top bar-btm bar-ssc-c">
     <div class="container">
         <h1>Eve Image Content</h1>
-        <div id="imgcontent-ui">
+        <div id="imgcontent-input">
             <p>Copy the JSON from <code>EVE Online/content.json</code>.</p>
             <div class="row">
                 <div class="col-md-6">
                     <form id="imgcontent-form">
-                        <textarea class="form-control" id="imgcontent-input" rows="15" placeholder="...and paste it here."></textarea><br>
+                        <textarea class="form-control content" rows="15" placeholder="...and paste it here."></textarea><br>
                         <button class="btn btn-primary btn-ssc-c" data-imgcontent="onProcess">
                             Process
                         </button>
@@ -33,7 +33,7 @@ site()->addJS("/app/js/imgcontent-js.php", "file");
             </div>
         </div>
         <div id="imgcontent-output" class="mb-5" style="display: none;">
-            <div class="the-content"></div>
+            <div class="content"></div>
             <button class="btn btn-primary btn-ssc-c" data-imgcontent="onDismiss">OK</button>
         </div>
     </div>

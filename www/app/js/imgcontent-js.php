@@ -3,35 +3,43 @@
 require $_SERVER["DOCUMENT_ROOT"] . "/app/start.php";
 $sampleDataPath = site()->getSampleDataPath("imgcontent.json");
 $sampleData = json_encode(file_get_contents($sampleDataPath));
+$obj = "imgcontent";
 
 ?>
 
-var imgcontent = {
-    onDocumentReady: function () {
-        OnClick.install("imgcontent"); // attaches click handlers
+var <?=$obj?> = {
+
+    input: {
+        content: "#<?=$obj?>-input .content",
+        ui: "#<?=$obj?>-input"
+    },
+    output: {
+        content: "#<?=$obj?>-output .content",
+        template: "#<?=$obj?>",
+        ui: "#<?=$obj?>-output"
     },
 
-    onSampleData: function() {
-        $("#imgcontent-input").val(<?=$sampleData?>);
+    onDocumentReady: function () {
+        OnClick.install("<?=$obj?>"); // attaches click handlers
     },
 
     onProcess: function() {
-        var input = JSON.parse($("#imgcontent-input").val());
+        var input = JSON.parse($(<?=$obj?>.input.content).val());
         
         var output = {};
         Object.keys(input["eve-online"].en).forEach(k => {
             var method = k + "Process";
-            if (typeof imgcontent[method] != "function") {
-                console.info("Aborting: no method named " + method + " found on imgcontent.");
+            if (typeof <?=$obj?>[method] != "function") {
+                console.info("Aborting: no method named " + method + " found on <?=$obj?>.");
                 return;
             }
-            output[k] = imgcontent[method](input["eve-online"].en[k]);
+            output[k] = <?=$obj?>[method](input["eve-online"].en[k]);
         });
 
         // output
-        $("#imgcontent-output .the-content").empty()
+        $(<?=$obj?>.output.content).empty()
             .append(Mustache.render(
-                $("#imgcontent").html(), { output }
+                $(<?=$obj?>.output.template).html(), { output }
             ));
 
         $(".measure-me").on("load", function() {
@@ -40,7 +48,7 @@ var imgcontent = {
             var h = img.naturalHeight;
             var info = "Image size: " + w + " x " + h;
 
-            var gcd = imgcontent.greatestCommonDivisor(w, h);
+            var gcd = <?=$obj?>.greatestCommonDivisor(w, h);
             if (gcd != 1 && w/gcd < 100) {
                 info += "<br>Aspect: " + w/gcd + ":" + h/gcd;
             }
@@ -49,13 +57,13 @@ var imgcontent = {
         });
 
         // toggle view
-        $("#imgcontent-ui").hide();
-        $("#imgcontent-output").show();
+        $(<?=$obj?>.input.ui).hide();
+        $(<?=$obj?>.output.ui).show();
     },
 
     greatestCommonDivisor: function(w, h) {
         return (h == 0)
-            ? w : imgcontent.greatestCommonDivisor(h, w%h);
+            ? w : <?=$obj?>.greatestCommonDivisor(h, w%h);
     },
 
     creativesProcess: function(data) {
@@ -96,12 +104,16 @@ var imgcontent = {
 
     onDismiss: function () {
         // empty input
-        $("#imgcontent-input").val("");
+        $(<?=$obj?>.input.content).val("");
 
         // toggle view
-        $("#imgcontent-ui").show();
-        $("#imgcontent-output").hide();
+        $(<?=$obj?>.input.ui).show();
+        $(<?=$obj?>.output.ui).hide();
+    },
+
+    onSampleData: function() {
+        $(<?=$obj?>.input.content).val(<?=$sampleData?>);
     }
 };
 
-$(imgcontent.onDocumentReady);
+$(<?=$obj?>.onDocumentReady);
