@@ -2,7 +2,7 @@
 
 site()->layoutInit();
 site()->addPageTitle("Time Stamp");
-site()->addJS("/app/js/timestamp.js", "file");
+site()->addJS("/app/js/time-js.php", "file");
 
 ?>
 
@@ -37,10 +37,10 @@ site()->addJS("/app/js/timestamp.js", "file");
                     <div class="form col-md-6">
                         <textarea class="form-control" id="stationTimer" rows="3"
                             placeholder="...and paste it here."></textarea><br>
-                        <button class="btn btn-primary btn-ssc-b" data-timestamp="convertStationTimer">
+                        <button class="btn btn-primary btn-ssc-b" data-time="convertStationTimer">
                             Convert Station Timer
                         </button>
-                        <button class="btn btn-outline btn-ssc-b" data-timestamp="stationTimerSampleData">
+                        <button class="btn btn-outline btn-ssc-b" data-time="stationTimerSampleData">
                             Sample Data
                         </button>
                     </div>
@@ -55,7 +55,7 @@ site()->addJS("/app/js/timestamp.js", "file");
                 <div class="row">
                     <div class="form col-md-6">
                         <textarea class="form-control" id="bulk" rows="3"></textarea><br>
-                        <button class="btn btn-primary btn-ssc-b" data-timestamp="convertBulk">
+                        <button class="btn btn-primary btn-ssc-b" data-time="convertBulk">
                             Convert in Bulk
                         </button>
                     </div>
@@ -68,7 +68,7 @@ site()->addJS("/app/js/timestamp.js", "file");
                 <div class="d-flex flex-row align-items-center flex-wrap">
                     <input class="form-control w-auto" id="simple">
                     &nbsp;
-                    <button class="btn btn-primary btn-ssc-b" data-timestamp="convertSimple">
+                    <button class="btn btn-primary btn-ssc-b" data-time="convertSimple">
                         Convert
                     </button>
                 </div>
@@ -81,23 +81,23 @@ site()->addJS("/app/js/timestamp.js", "file");
                             Discord
                         </button>
                         <div class="dropdown-menu dropdown-menu-right">
-                            <a class="dropdown-item" data-timestamp="discord"><code>:t</code> | Short time: 9:18
+                            <a class="dropdown-item" data-time="discord"><code>:t</code> | Short time: 9:18
                                 AM</a>
-                            <a class="dropdown-item" data-timestamp="discord"><code>:T</code> | Long time: 9:18:34
+                            <a class="dropdown-item" data-time="discord"><code>:T</code> | Long time: 9:18:34
                                 AM</a>
-                            <a class="dropdown-item" data-timestamp="discord"><code>:d</code> | Short date:
+                            <a class="dropdown-item" data-time="discord"><code>:d</code> | Short date:
                                 12/11/2022</a>
-                            <a class="dropdown-item" data-timestamp="discord"><code>:D</code> | Long date: December
+                            <a class="dropdown-item" data-time="discord"><code>:D</code> | Long date: December
                                 11,
                                 2022</a>
-                            <a class="dropdown-item" data-timestamp="discord"><code>:f</code> | Short date & time:
+                            <a class="dropdown-item" data-time="discord"><code>:f</code> | Short date & time:
                                 December
                                 11, 2022 9:18 AM</a>
-                            <a class="dropdown-item" data-timestamp="discord"><code>:F</code> | Long date & time:
+                            <a class="dropdown-item" data-time="discord"><code>:F</code> | Long date & time:
                                 Sunday,
                                 December 11, 2022 9:18 AM</a>
                             <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" data-timestamp="discord"><code>:R</code> | Relative time: 5
+                            <a class="dropdown-item" data-time="discord"><code>:R</code> | Relative time: 5
                                 minutes
                                 ago</a>
                         </div>

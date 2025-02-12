@@ -1,7 +1,16 @@
-var timestamp = {
+<?php
+
+require $_SERVER["DOCUMENT_ROOT"] . "/app/start.php";
+$sampleDataPath = site()->getSampleDataPath("time-station.txt");
+$sampleData = json_encode(file_get_contents($sampleDataPath));
+$obj = "time";
+
+?>
+
+var <?=$obj?> = {
     onDocumentReady: function () {
-        console.log("timestamp.onDocumentReady()");
-        OnClick.install("timestamp"); // attaches click handlers
+        console.log("<?=$obj?>.onDocumentReady()");
+        OnClick.install("<?=$obj?>"); // attaches click handlers
     },
 
     convertStationTimer: function () {
@@ -37,8 +46,8 @@ var timestamp = {
         $("#output").val(eveTimestamp);
 
         // construct pieces for string
-        var relative = timestamp.discordTag(eveTimestamp, "R");
-        var fulldatetime = timestamp.discordTag(eveTimestamp, "F");
+        var relative = <?=$obj?>.discordTag(eveTimestamp, "R");
+        var fulldatetime = <?=$obj?>.discordTag(eveTimestamp, "F");
 
         // assemble and copy string
         site.copyToClipboard([subject, "timer expires", relative, "@", fulldatetime].join(" "));
@@ -68,8 +77,8 @@ var timestamp = {
             var eveTimestamp = moment.utc(datetime.join(" "), patterns.join(" ")).unix();
 
             // construct pieces for string
-            var relative = timestamp.discordTag(eveTimestamp, "R");
-            var fulldatetime = timestamp.discordTag(eveTimestamp, "F");
+            var relative = <?=$obj?>.discordTag(eveTimestamp, "R");
+            var fulldatetime = <?=$obj?>.discordTag(eveTimestamp, "F");
 
             // assemble string
             output.push([subject.join(" "), "expires", relative, "@", fulldatetime].join(" "));
@@ -90,7 +99,7 @@ var timestamp = {
         var theTimestamp = $("#output").val();
         var format = $(this).find("code").text();
         // var discordTag = "<t:" + timestamp + format + ">";
-        var discordTag = timestamp.discordTag(theTimestamp, format);
+        var discordTag = <?=$obj?>.discordTag(theTimestamp, format);
 
         console.log("discordTag is", discordTag);
 
@@ -107,4 +116,4 @@ var timestamp = {
     }
 };
 
-$(timestamp.onDocumentReady);
+$(<?=$obj?>.onDocumentReady);
