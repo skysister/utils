@@ -8,6 +8,13 @@ $obj = "time";
 ?>
 
 var <?=$obj?> = {
+    input: {
+        station: "#stationTimer",
+        bulk: "#bulk",
+        simple: "#simple"
+    },
+    output: "#output",
+
     onDocumentReady: function () {
         console.log("<?=$obj?>.onDocumentReady()");
         OnClick.install("<?=$obj?>"); // attaches click handlers
@@ -18,7 +25,7 @@ var <?=$obj?> = {
         var datetime = [];
 
         // get input
-        var input = $("#stationTimer").val().trim();
+        var input = $(<?=$obj?>.input.station).val().trim();
 
         // split off chat log timestamp and character
         if (input.charAt(0) == "[") {
@@ -43,7 +50,7 @@ var <?=$obj?> = {
         var eveTimestamp = moment.utc(datetime.join(" "), patterns.join(" ")).unix();
 
         // output eveTimestamp for additional use
-        $("#output").val(eveTimestamp);
+        $(<?=$obj?>.output).val(eveTimestamp);
 
         // construct pieces for string
         var relative = <?=$obj?>.discordTag(eveTimestamp, "R");
@@ -51,10 +58,6 @@ var <?=$obj?> = {
 
         // assemble and copy string
         site.copyToClipboard([subject, "timer expires", relative, "@", fulldatetime].join(" "));
-    },
-
-    stationTimerSampleData: function () {
-        $("#stationTimer").val("Bawilan - Anacreon\n20.1 AU\nReinforced until 2023.05.12 21:46:09");
     },
 
     convertBulk: function () {
@@ -89,19 +92,16 @@ var <?=$obj?> = {
     },
 
     convertSimple: function () {
-        var input = $("#simple").val();
+        var input = $(<?=$obj?>.input.simple).val();
         var inputMoment = moment(input);
 
-        $("#output").val(inputMoment.unix());
+        $(<?=$obj?>.output).val(inputMoment.unix());
     },
 
     discord: function () {
-        var theTimestamp = $("#output").val();
+        var theTimestamp = $(<?=$obj?>.output).val();
         var format = $(this).find("code").text();
-        // var discordTag = "<t:" + timestamp + format + ">";
         var discordTag = <?=$obj?>.discordTag(theTimestamp, format);
-
-        console.log("discordTag is", discordTag);
 
         site.copyToClipboard(discordTag);
     },
@@ -113,6 +113,10 @@ var <?=$obj?> = {
         }
 
         return "<t:" + theTimestamp + format + ">";
+    },
+
+    stationTimerSampleData: function () {
+        $(<?=$obj?>.input.station).val(<?=$sampleData?>);
     }
 };
 
