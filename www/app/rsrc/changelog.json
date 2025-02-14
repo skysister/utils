@@ -1,5 +1,15 @@
 [
     {
+        "date": "TODO replace with release date",
+        "vers": "0.4.4",
+        "list": [
+            "Add Image Content feature",
+            "Provide better sample data handling",
+            "Normalize element selectors",
+            "Make theme more easily updated"
+        ]
+    },
+    {
         "date": "2025 Jan 17",
         "vers": "0.4.3",
         "list": [
