@@ -4,10 +4,11 @@ site()->layoutInit();
 site()->addPageTitle("Message of the Day");
 site()->addCSS("/app/css/motd.css", "file");
 site()->addJS("/app/js/motd-js.php", "file");
+$theme = "ssc-a"; // page theme
 
 ?>
 
-<div class="page bar-top bar-btm bar-ssc-a">
+<div class="page bar-top bar-btm bar-<?=$theme?>">
     <div class="container">
         <h1>Message of the Day</h1>
         <div id="motd-input">
@@ -15,10 +16,10 @@ site()->addJS("/app/js/motd-js.php", "file");
             <div class="row">
                 <div class="col-md-6">
                     <textarea class="form-control content" rows="15" placeholder="...and paste it here."></textarea><br>
-                    <button class="btn btn-primary btn-ssc-a" data-motd="onParse">
+                    <button class="btn btn-primary btn-<?=$theme?>" data-motd="onParse">
                         Show Channels and Passwords
                     </button>
-                    <button class="btn btn-outline btn-ssc-a" data-motd="onSampleData">
+                    <button class="btn btn-outline btn-<?=$theme?>" data-motd="onSampleData">
                         Sample Data
                     </button>
                 </div>
@@ -30,7 +31,7 @@ site()->addJS("/app/js/motd-js.php", "file");
         </div>
         <div id="motd-output" style="display: none;">
             <div class="content"></div>
-            <button class="btn btn-primary btn-ssc-a" data-motd="onDismiss">OK</button>
+            <button class="btn btn-primary btn-<?=$theme?>" data-motd="onDismiss">OK</button>
         </div>
     </div>
 </div>
@@ -47,7 +48,7 @@ site()->addJS("/app/js/motd-js.php", "file");
         <td class="channel">{{channel}}</td>
         <td class="password">{{password}}</td>
         <td>
-            <button class="btn btn-sm btn-primary btn-ssc-a" data-motd="onCopy">
+            <button class="btn btn-sm btn-primary btn-<?=$theme?>" data-motd="onCopy">
                 Copy
             </button>
         </td>
@@ -67,7 +68,7 @@ site()->addJS("/app/js/motd-js.php", "file");
             >
         </td>
         <td>
-            <button class="btn btn-sm btn-outline btn-ssc-a" data-motd="onAdd">
+            <button class="btn btn-sm btn-outline btn-<?=$theme?>" data-motd="onAdd">
                 Add
             </button>
         </td>

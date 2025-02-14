@@ -3,10 +3,11 @@
 site()->layoutInit();
 site()->addPageTitle("Image Content");
 site()->addJS("/app/js/imgcontent-js.php", "file");
+$theme = "ssc-c"; // page theme
 
 ?>
 
-<div class="page bar-top bar-btm bar-ssc-c">
+<div class="page bar-top bar-btm bar-<?=$theme?>">
     <div class="container">
         <h1>Eve Image Content</h1>
         <div id="imgcontent-input">
@@ -15,10 +16,10 @@ site()->addJS("/app/js/imgcontent-js.php", "file");
                 <div class="col-md-6">
                     <form id="imgcontent-form">
                         <textarea class="form-control content" rows="15" placeholder="...and paste it here."></textarea><br>
-                        <button class="btn btn-primary btn-ssc-c" data-imgcontent="onProcess">
+                        <button class="btn btn-primary btn-<?=$theme?>" data-imgcontent="onProcess">
                             Process
                         </button>
-                        <button class="btn btn-outline btn-ssc-c" data-imgcontent="onSampleData">
+                        <button class="btn btn-outline btn-<?=$theme?>" data-imgcontent="onSampleData">
                             Sample Data
                         </button>
                     </form>
@@ -33,12 +34,14 @@ site()->addJS("/app/js/imgcontent-js.php", "file");
                         Windows:<br>
                         <code class="ms-3">?</code> Do you know where this is? Maru needs your help!<br>
                     </p>
+                    <hr class="hr-ssc hr-<?=$theme?>">
+                    <p>Feedback and correction is requested for these locations.</p>
                 </div>
             </div>
         </div>
         <div id="imgcontent-output" class="mb-5" style="display: none;">
             <div class="content"></div>
-            <button class="btn btn-primary btn-ssc-c" data-imgcontent="onDismiss">OK</button>
+            <button class="btn btn-primary btn-<?=$theme?>" data-imgcontent="onDismiss">OK</button>
         </div>
     </div>
 </div>

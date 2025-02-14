@@ -3,15 +3,16 @@
 site()->layoutInit();
 site()->addPageTitle("Time Stamp");
 site()->addJS("/app/js/time-js.php", "file");
+$theme = "ssc-b"; // page theme
 
 ?>
 
-<div class="page bar-top bar-btm bar-ssc-b">
+<div class="page bar-top bar-btm bar-<?=$theme?>">
     <div class="container">
         <h1>Time Stamp</h1>
         <p>A handy set of utilities for creating Discord time tags.</p>
         <p>Also handy: <a href="http://hammertime.cyou" target="_blank">Hammer Time</a></p>
-        <hr class="hr-ssc hr-ssc-b">
+        <hr class="hr-ssc hr-<?=$theme?>">
         <ul class="nav nav-underline mb-4">
             <li class="nav-item">
                 <a class="nav-link active" href="#" data-bs-toggle="tab" data-bs-target="#station-timer">
@@ -37,10 +38,10 @@ site()->addJS("/app/js/time-js.php", "file");
                     <div class="form col-md-6">
                         <textarea class="form-control" id="stationTimer" rows="3"
                             placeholder="...and paste it here."></textarea><br>
-                        <button class="btn btn-primary btn-ssc-b" data-time="convertStationTimer">
+                        <button class="btn btn-primary btn-<?=$theme?>" data-time="convertStationTimer">
                             Convert Station Timer
                         </button>
-                        <button class="btn btn-outline btn-ssc-b" data-time="stationTimerSampleData">
+                        <button class="btn btn-outline btn-<?=$theme?>" data-time="stationTimerSampleData">
                             Sample Data
                         </button>
                     </div>
@@ -55,7 +56,7 @@ site()->addJS("/app/js/time-js.php", "file");
                 <div class="row">
                     <div class="form col-md-6">
                         <textarea class="form-control" id="bulk" rows="3"></textarea><br>
-                        <button class="btn btn-primary btn-ssc-b" data-time="convertBulk">
+                        <button class="btn btn-primary btn-<?=$theme?>" data-time="convertBulk">
                             Convert in Bulk
                         </button>
                     </div>
@@ -68,7 +69,7 @@ site()->addJS("/app/js/time-js.php", "file");
                 <div class="d-flex flex-row align-items-center flex-wrap">
                     <input class="form-control w-auto" id="simple">
                     &nbsp;
-                    <button class="btn btn-primary btn-ssc-b" data-time="convertSimple">
+                    <button class="btn btn-primary btn-<?=$theme?>" data-time="convertSimple">
                         Convert
                     </button>
                 </div>
@@ -76,7 +77,7 @@ site()->addJS("/app/js/time-js.php", "file");
                     <input class="form-control w-auto" id="output">
                     &nbsp;
                     <div class="btn-group">
-                        <button class="btn btn-primary btn-ssc-b dropdown-toggle" data-bs-toggle="dropdown">
+                        <button class="btn btn-primary btn-<?=$theme?> dropdown-toggle" data-bs-toggle="dropdown">
                             <span class="d-none d-sm-inline">Copy for</span>
                             Discord
                         </button>
@@ -105,9 +106,9 @@ site()->addJS("/app/js/time-js.php", "file");
                 </div>
             </div>
         </div>
-        <hr class="hr-ssc hr-ssc-b">
+        <hr class="hr-ssc hr-<?=$theme?>">
         <p>Improvements:
-        <ul class="marker-ssc marker-ssc-b">
+        <ul class="marker-ssc marker-<?=$theme?>">
             <li>Provide additional hints or instructions</li>
             <li>Add more example data</li>
             <li>Add copied to clipboard indicator</li>

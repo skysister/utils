@@ -1,24 +1,25 @@
 <?php 
 
 site()->layoutInit();
-echo site()->topBanner()
+$theme = "ssc-a"; // page theme
+echo site()->topBanner(["barBg" => "ssc-b", "btnBg" => $theme]);
 
 ?>
 
-<div class="page bar-top bar-btm bar-ssc-a">
+<div class="page bar-top bar-btm bar-<?=$theme?>">
     <div class="container">
         <img class="maru-home" src="https://images.evetech.net/characters/1740039545/portrait?size=128">
         <h1>Greetings from Your Sky Sister</h1>
         <p>Sky Sister is a set of utilities written by Maru Skyborne.</p>
-        <hr class="hr-ssc hr-ssc-a">
+        <hr class="hr-ssc hr-<?=$theme?>">
         <h2>Eve Online</h2>
-        <a class="btn btn-primary btn-ssc-a my-1" href="/time">Time Stamp</a>
-        <a class="btn btn-primary btn-ssc-a my-1" href="/material">Material Analysis</a>
-        <a class="btn btn-primary btn-ssc-a my-1" href="/sov">Sovereignty</a>
-        <a class="btn btn-primary btn-ssc-a my-1" href="/motd">Message of the Day</a>
-        <hr class="hr-ssc hr-ssc-a">
+        <a class="btn btn-primary btn-<?=$theme?> my-1" href="/time">Time Stamp</a>
+        <a class="btn btn-primary btn-<?=$theme?> my-1" href="/material">Material Analysis</a>
+        <a class="btn btn-primary btn-<?=$theme?> my-1" href="/sov">Sovereignty</a>
+        <a class="btn btn-primary btn-<?=$theme?> my-1" href="/motd">Message of the Day</a>
+        <hr class="hr-ssc hr-<?=$theme?>">
         <p>Improvements:
-            <ul class="marker-ssc marker-ssc-a">
+            <ul class="marker-ssc marker-<?=$theme?>">
                 <li>Add Station Manager</li>
                 <li>Text gradient generator</li>
                 <li>Add Secret Project (shhh)</li>

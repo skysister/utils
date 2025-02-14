@@ -4,10 +4,11 @@ site()->layoutInit();
 site()->addPageTitle("Material Analysis");
 site()->addCSS("/app/css/material.css", "file");
 site()->addJS("/app/js/material-js.php", "file");
+$theme = "ssc-c"; // page theme
 
 ?>
 
-<div class="page bar-top bar-btm bar-ssc-c">
+<div class="page bar-top bar-btm bar-<?=$theme?>">
     <div class="container">
         <h1>Eve Material Analysis</h1>
         <div id="material-input">
@@ -16,10 +17,10 @@ site()->addJS("/app/js/material-js.php", "file");
                 <div class="col-md-6">
                     <form id="material-form">
                         <textarea class="form-control content" rows="15" placeholder="...and paste it here."></textarea><br>
-                        <button class="btn btn-primary btn-ssc-c" data-material="onAnalyze">
+                        <button class="btn btn-primary btn-<?=$theme?>" data-material="onAnalyze">
                             Analyze
                         </button>
-                        <button class="btn btn-outline btn-ssc-c" data-material="onSampleData">
+                        <button class="btn btn-outline btn-<?=$theme?>" data-material="onSampleData">
                             Sample Data
                         </button>
                     </form>
@@ -41,11 +42,11 @@ site()->addJS("/app/js/material-js.php", "file");
                 </div>
             </div>
             <br>
-            <button class="btn btn-primary btn-ssc-c" data-material="onDismiss">OK</button>
+            <button class="btn btn-primary btn-<?=$theme?>" data-material="onDismiss">OK</button>
         </div>
-        <hr class="hr-ssc hr-ssc-c">
+        <hr class="hr-ssc hr-<?=$theme?>">
         <p>Improvements:
-            <ul class="marker-ssc marker-ssc-c">
+            <ul class="marker-ssc marker-<?=$theme?>">
                 <li>Stablize output size</li>
             </ul>
         </p>

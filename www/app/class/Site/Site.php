@@ -56,24 +56,24 @@ class Site
         $this->pageTitle[] = $title;
     }
 
-    public function topBanner()
+    public function topBanner($themes)
     {
         if ($_SERVER["HTTP_HOST"] == "ss-utils.localhost") {
-            return $this->loadTemplate("site/header-local");
+            return $this->loadTemplate("site/header-local", $themes);
         }
 
         if ($_SERVER["HTTP_HOST"] == "skysister.looseaffiliations.pub") {
-            return $this->loadTemplate("site/header-loose");
+            return $this->loadTemplate("site/header-loose", $themes);
         }
         
         return "";
     }
 
-    public function changes()
+    public function changes($theme = "ssc-a")
     {
         $entries = $_SERVER["DOCUMENT_ROOT"] . "/app/rsrc/changelog.json";
         $variables = [
-            "theme" => "ssc-a",
+            "theme" => $theme,
             "entries" => json_decode(file_get_contents($entries), true),
         ];
 

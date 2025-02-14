@@ -2,10 +2,11 @@
 
 site()->layoutInit();
 site()->addPageTitle("Diagnostics");
+$theme = "ssc-a"; // page theme
 
 ?>
 
-<div class="page bar-top bar-btm bar-ssc-a">
+<div class="page bar-top bar-btm bar-<?=$theme?>">
     <div id="diagnostics" class="container text-white">
 
     <pre>
