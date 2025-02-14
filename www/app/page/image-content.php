@@ -26,8 +26,12 @@ site()->addJS("/app/js/imgcontent-js.php", "file");
                 <div class="col-md-6">
                     <p>
                         File location varies by platform.<br>
-                        Mac: ~/Library/Application Support/EVE Online/content.json<br>
-                        Win: ?
+                        macOS:<br>
+                        <code class="ms-3">~/Library/Application Support/EVE Online/content.json</code><br>
+                        Proton/Wine/Linux:<br>
+                        <code class="ms-3">?</code> Do you know where this is? Maru needs your help!<br>
+                        Windows:<br>
+                        <code class="ms-3">?</code> Do you know where this is? Maru needs your help!<br>
                     </p>
                 </div>
             </div>
