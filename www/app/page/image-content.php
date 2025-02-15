@@ -25,15 +25,22 @@ $theme = "ssc-c"; // page theme
                     </form>
                 </div>
                 <div class="col-md-6">
-                    <p>
-                        File location varies by platform.<br>
-                        macOS:<br>
-                        <code class="ms-3">~/Library/Application Support/EVE Online/content.json</code><br>
-                        Proton/Wine/Linux:<br>
-                        <code class="ms-3">?</code> Do you know where this is? Maru needs your help!<br>
-                        Windows:<br>
-                        <code class="ms-3">?</code> Do you know where this is? Maru needs your help!<br>
-                    </p>
+                    File location varies by platform.<br>
+                    macOS:
+                    <div class="ms-3">
+                        <code>~/Library/Application Support/EVE Online/content.json</code>
+                    </div>
+                    Proton/Wine/Linux:
+                    <div class="ms-3">
+                        Try<br>
+                        <code>~/.steam/debian-installation/steamapps/compatdata/8500/pfx/drive_c/users/steamuser/AppData/Roaming/EVE Online/content.json</code><br>
+                        Is there another location? Send it to Maru!
+                    </div>
+                    Windows:<br>
+                    <div class="ms-3">
+                        <code>%USERPROFILE%\AppData\Roaming\EVE Online\content.json</code><br>
+                        Known of another location? Maru can add it!
+                    </div>
                     <hr class="hr-ssc hr-<?=$theme?>">
                     <p>Feedback and correction is requested for these locations.</p>
                 </div>
